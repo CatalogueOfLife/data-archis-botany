@@ -8,7 +8,7 @@ Plantae [kingdom]
       Sphagnum [genus]
         Sphagnum imbricatum [species] {VERN=nld:Kamveenmos}
   Charophyta [phylum]
-    Characeae [family] {VERN=nld:Kranswierfamili}
+    Characeae [family] {VERN=nld:Kranswierfamilie}
       Chara [genus] {VERN=nld:Kranswier}
       Tolypella [genus]
         Tolypella glomerata [species] {VERN=nld:Boomglanswier}
