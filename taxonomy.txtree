@@ -3108,7 +3108,6 @@ Plantae [kingdom]
               =Prunus domestica 6/12 [species]
           Prunus domestica cv. pershore [cultivar] {CODE=CULTIVARS VERN=nld:Tonneboer pruim}
           Prunus domestica cv. tonneboer [cultivar] {CODE=CULTIVARS VERN=eng:Plum,nld:Pruim s.s.,fra:Prunier}
-            =Prunus domestica domestica [subspecies]
           Prunus domestica intermedia [subspecies] {VERN=nld:Reine Claudepruim}
           Prunus domestica italica [subspecies] {VERN=nld:Nancy-mirabel,eng:white bullace}
           Prunus domestica subsp. domestica [subspecies] {CODE=BOTANICAL VERN=nld:Varkenspruim}
