@@ -687,9 +687,7 @@ Plantae [kingdom]
         Myosotis discolor [species] {VERN=nld:Veelkleurig/Stijf vergeet-me-nietje}
         Myosotis ramosissima [species] {VERN=nld:Ruw/Moerasvergeet-mij-nietje}
         Myosotis scorpioides [species] {VERN=nld:Weidevergeet-mij-nietje}
-          =Myosotis scorpioides nemorosa [subspecies]
           Myosotis scorpioides subsp. nemorosa [subspecies] {CODE=BOTANICAL VERN=nld:Moerasvergeet-mij-nietje}
-            =Myosotis scorpioides scorpioides [subspecies]
           Myosotis scorpioides subsp. scorpioides [subspecies] {CODE=BOTANICAL VERN=nld:Moeras-/Bosvergeet-mij-nietje}
         Myosotis stricta [species] {VERN=nld:Bosvergeet-mij-nietje,fra:Myosotis des forêts,deu:Wald-Vergissmeinnicht,eng:Wood Forget-me-not}
         Myosotis sylvatica [species] {VERN=eng:Mouse-tail,nld:Muizenstaart,deu:Mäuseschwanz,fra:Ratoncule naine}
@@ -833,7 +831,6 @@ Plantae [kingdom]
         Nasturtium microphyllum [species] {VERN=nld:Slanke/Witte waterkers}
           =Rorippa microphylla nasturtium-aquaticum [infraspecific_name]
         Nasturtium officinale [species] {VERN=nld:Waterkers}
-          =Rorippa [unranked]
       Neslia [genus] {VERN=deu:Ackernüsschen,eng:Ball Mustard,fra:Neslie en panicule,nld:Vinkenzaad}
         Neslia paniculata [species] {VERN=eng:Apple-of-Peru,deu:Giftbeere,fra:Nicandra,nld:Zegekruid}
       Raphanus [genus] {VERN=nld:Radijs,fra:Radis,eng:Radish,deu:Rettich}
@@ -900,9 +897,7 @@ Plantae [kingdom]
         Lobelia dortmanna [species] {VERN=fra:Lobélie de Dortmann,deu:Wasser-Lobelie,eng:Water Lobelia,nld:Waterlobelia}
       Phyteuma [genus] {VERN=nld:Witte + Zwartblauwe rapunzel}
         Phyteuma spicatum [species] {VERN=eng:Black-horned Rampion,fra:Raiponce bleue,deu:Schwarze Rapunzel,nld:Zwartblauwe rapunzel}
-          =Phyteuma spicatum nigrum [subspecies]
           Phyteuma spicatum subsp. nigrum [subspecies] {CODE=BOTANICAL VERN=fra:Raiponce en épi,eng:Spiked Rampion,nld:Witte rapunzel,deu:Ährige Rapunzel}
-            =Phyteuma spicatum spicatum [subspecies]
           Phyteuma spicatum subsp. spicatum [subspecies] {CODE=BOTANICAL VERN=nld:Karmozijnbes,deu:Kermesbeere,fra:Phytolaque,eng:Virginian Pokeweed}
       Trachelium [genus]
         Trachelium caeruleum [species] {VERN=nld:Halsbloem}
@@ -1411,9 +1406,8 @@ Plantae [kingdom]
         Moneses uniflora [species] {VERN=deu:Fichtenspargel,nld:Stofzaad,fra:Sucepin,eng:Yellow Bird's Nest}
       Monotropa [genus] {VERN=deu:Gewöhnlicher Fichtenspargel,nld:Stofzaad,fra:Sucepin,eng:Yellow Bird's Nest}
         Monotropa hypopitys [species] {VERN=nld:Kaal stofzaad}
-          =Monotropa hypopitys hypophegea [subspecies]
           Monotropa hypopitys subsp. hypophegea [subspecies] {CODE=BOTANICAL VERN=nld:Behaard stofzaad}
-            =Monotropa hypopitys hypopitys [subspecies]
+          Monotropa hypopitys subsp. hypopitys [subspecies] {CODE=BOTANICAL VERN=eng:Blinks,nld:Bronkruid,fra:Montie,deu:Quellkraut}
       Orthilia [genus] {VERN=nld:Eenzijdig wintergroen,deu:Nickendes Wintergrün,fra:Pyrole unilatérale,eng:Toothed Wintergreen}
         Orthilia secunda [species] {VERN=nld:Eenzijdig wintergroen}
       Pyrola [genus] {VERN=fra:Pyrole,eng:Wintergreen,nld:Wintergroen,deu:Wintergrün}
@@ -1537,9 +1531,7 @@ Plantae [kingdom]
         Onobrychis viciifolia [species] {VERN=nld:Bolletjesvaren,fra:Onoclée,deu:Perlfarn,eng:Sensitive Fern}
       Ononis [genus] {VERN=fra:Bugrane rampante,eng:Common Restharrow,nld:Kattendoorn en Kruipend stalkruid,deu:Kriechende Hauhechel}
         Ononis repens [species] {VERN=eng:Common & Spiny Restharrow,deu:Kriechende Hauhechel,nld:Kruipend stalkruid}
-          =Ononis repens repens [subspecies]
           Ononis repens subsp. repens [subspecies] {CODE=BOTANICAL VERN=deu:Dornige Hauhechel,nld:Kattendoorn,eng:Spiny Restharrow}
-            =Ononis repens spinosa [subspecies]
           Ononis repens subsp. spinosa [subspecies] {CODE=BOTANICAL VERN=eng:Cotton Thistle,deu:Eselsdistel,fra:Onoporde,nld:Wegdistel}
       Ornithopus [genus] {VERN=eng:Bird's-foot,nld:Klein vogelpootje,fra:Pied d'oiseau délicat,deu:Vogelfuss,, Krallenklee}
         Ornithopus perpusillus [species] {VERN=fra:Pied d'oiseau cultivé,deu:Serradella,eng:Serradella,nld:Serradelle}
@@ -1993,9 +1985,7 @@ Plantae [kingdom]
         Narcissus jonquilla [species] {VERN=deu:Gartennarzisse,fra:Narcisse des poètes,eng:Pheasant's-eye Daffodil,nld:Witte narcis}
         Narcissus poeticus [species] {VERN=fra:Jonquille,deu:Osterglocke,eng:Wild Daffodil,nld:Wilde narcis s.l.}
         Narcissus pseudonarcissus [species] {VERN=nld:Trompetnarcis}
-          =Narcissus pseudonarcissus major [subspecies]
           Narcissus pseudonarcissus subsp. major [subspecies] {CODE=BOTANICAL VERN=nld:Wilde narcis s.s.}
-            =Narcissus pseudonarcissus pseudonarcissus [subspecies]
           Narcissus pseudonarcissus subsp. pseudonarcissus [subspecies] {CODE=BOTANICAL VERN=nld:Witte x Wilde narcis}
         Narcissus × incomparabilis [species] {VERN=nld:Witte narcis x N. tazetta}
         Narcissus × medioluteus [species] {VERN=nld:Borstelgras,deu:Borstgras,eng:Mat-grass,fra:Nard}
@@ -2008,7 +1998,6 @@ Plantae [kingdom]
         Ornithogalum umbellatum [species] {VERN=nld:Gewone vogelmelk}
           =Ornithogalum umbellatum divergens [subspecies]
           Ornithogalum umbellatum subsp. campestre [subspecies] {CODE=BOTANICAL VERN=nld:Gewone vogelmelk}
-            =Ornithogalum umbellatum umbellatum [subspecies]
           Ornithogalum umbellatum subsp. umbellatum [subspecies] {CODE=BOTANICAL VERN=eng:Bird's-foot,fra:Pied d'oiseau,deu:Vogelfuss,nld:Vogelpootje}
       Paris [genus] {VERN=nld:Eenbes,deu:Einbeere,eng:Herb-Paris,fra:Parisette}
         Paris quadrifolia [species] {VERN=eng:Grass-of-Parnassus,deu:Herzblatt,fra:Parnas,nld:Parnassia}
@@ -2316,9 +2305,7 @@ Plantae [kingdom]
         Papaver orientale [species] {VERN=eng:Field Poppy,fra:Grand coquelicot,nld:Grote klaproos,deu:Klatsch-Mohn}
         Papaver rhoeas [species] {VERN=nld:Maanzaad,eng:Opium Poppy,fra:Pavot oeilette,deu:Schlafmohn}
         Papaver somniferum [species] {VERN=nld:Wild maanzaad}
-          =Papaver somniferum setigerum [subspecies]
           Papaver somniferum subsp. setigerum [subspecies] {CODE=BOTANICAL VERN=nld:Gekweekt maanzaad}
-            =Papaver somniferum somniferum [subspecies]
           Papaver somniferum subsp. somniferum [subspecies] {CODE=BOTANICAL VERN=nld:Kleine x Grote klaproos}
         Papaver × exspectatum [species] {VERN=nld:Papaverfamilie}
       Pseudofumaria [genus] {VERN=deu:Blassgelber Lerchensporn,fra:Corydale jaunâtre,nld:Geelwitte helmbloem,eng:Yellow-white Corydalis}
@@ -2393,7 +2380,6 @@ Plantae [kingdom]
         Plantago major [species] {VERN=nld:Getande weegbree}
           =Plantago major pleiosperma [subspecies]
           Plantago major subsp. intermedia [subspecies] {CODE=BOTANICAL VERN=nld:Grote weegbree s.s.,deu:Großer Wegerich}
-            =Plantago major major [subspecies]
           Plantago major subsp. major [subspecies] {CODE=BOTANICAL VERN=fra:Plantain maritime,eng:Sea Plantain,deu:Strand-Wegerich,nld:Zeeweegbree}
         Plantago maritima [species] {VERN=eng:Hoary Plantain,deu:Mittlerer Wegerich,fra:Plantain moyen,nld:Ruige weegbree}
         Plantago media [species] {VERN=nld:Plataanfamilie}
@@ -2531,7 +2517,6 @@ Plantae [kingdom]
         Elymus caninus [species] {VERN=fra:Agropyre des chiens,eng:Bearded Couch-grass,nld:Hondstarwegras,deu:Hunds-Quecke}
           =Agropyron caninum [species]
       Elytrigia [genus] {VERN=nld:Kweek}
-        =Elymus [unranked]
         Elytrigia atherica [species] {VERN=fra:Agropyre littoral,eng:Sea Couch-grass,deu:Strand-Quecke,nld:Strandkweek}
           =Agropyron pungens [species]
         Elytrigia juncea [species] {VERN=nld:Biestarwegras,deu:Binsen-Quecke}
@@ -2656,7 +2641,6 @@ Plantae [kingdom]
         Phleum pratense [species] {VERN=fra:Fléole des prés,nld:Timoteegras s.s.,eng:Timothy}
           =Phleum pratense pratense [subspecies]
           Phleum pratense subsp. pratense [subspecies] {CODE=BOTANICAL VERN=eng:Cat's-tail,fra:Fléole noueuse,nld:Klein timoteegras}
-            =Phleum pratense serotinum [subspecies]
           Phleum pratense subsp. serotinum [subspecies] {CODE=BOTANICAL VERN=nld:Timotheegras/Straatgras}
       Phragmites [genus] {VERN=eng:Common Reed,nld:Riet,fra:Roseau,deu:Schilf}
         Phragmites australis [species] {VERN=nld:Riet/Beemdgras}
@@ -2828,16 +2812,13 @@ Plantae [kingdom]
       Claytonia [genus] {VERN=deu:Claytonie,fra:Claytonie,eng:Purslane,nld:Winterpostelein}
         Claytonia perfoliata [species] {VERN=fra:Claytonie perfoliée,deu:Kragen-Portulak,eng:Spring Beauty,nld:Winterpostelein}
         Claytonia sibirica [species] {VERN=fra:Claytonie sibérienne,eng:Pink Purslane,nld:Roze winterpostelein,deu:Sibirisches Quellenkraut}
-      Monotropa hypopitys subsp. hypopitys [subspecies] {CODE=BOTANICAL VERN=eng:Blinks,nld:Bronkruid,fra:Montie,deu:Quellkraut}
       Montia [genus] {VERN=eng:Blinks,deu:Glattsamiges Quellkraut,nld:Groot bronkruid,fra:Montie des fontaines}
         =Montia fontana subsp. fontana [subspecies] {CODE=BOTANICAL}
         Montia fontana [species] {VERN=nld:Bronkruid,deu:Glattsamiges Quellkraut,eng:blinks}
         Montia minor [species] {VERN=nld:Moerbeifamilie}
       Portulaca [genus] {VERN=eng:Common Purslane,deu:Portulak,nld:Postelein,fra:Pourpier}
         Portulaca oleracea [species] {VERN=nld:Wilde postelein}
-          =Portulaca oleracea oleracea [subspecies]
           Portulaca oleracea subsp. oleracea [subspecies] {CODE=BOTANICAL VERN=nld:Gekweekte postelein}
-            =Portulaca oleracea sativa [subspecies]
           Portulaca oleracea subsp. sativa [subspecies] {CODE=BOTANICAL VERN=nld:Posteleinfamilie}
     Potamogetonaceae [family] {VERN=eng:Cinquefoil,deu:Fingerkraut,nld:Ganzerik,fra:Potentille}
       Groenlandia [genus] {VERN=deu:Dichtes Fischkraut,eng:Opposite-leaved Pondweed,nld:Paarbladig fonteinkruid,fra:Potamot dense}
@@ -3088,36 +3069,6 @@ Plantae [kingdom]
           =Potentilla verna [species]
         Potentilla tabernaemontani [species] {VERN=nld:Kruipganzerik x Tormentil}
         Potentilla × suberecta [species] {VERN=fra:Primevère,eng:Primrose / Cowslip,deu:Schlüsselblume,nld:Sleutelbloem}
-      Prunus domestica domestica (Gro-10) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim kwets}
-        =Prunus domestica 7 [species]
-      Prunus domestica domestica (Gro-7) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim spilling}
-        =Prunus domestica 8 [species]
-      Prunus domestica domestica (Gro-8) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim van Damast}
-        =Prunus domestica 9 [species]
-      Prunus domestica domestica (Gro-9) [infraspecific_name] {CODE=BOTANICAL VERN=eng:Bullace,nld:Kroosjes,fra:Prunier crèque}
-        =Prunus domestica insititia [subspecies]
-      Prunus domestica insititia (Gro-1) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Gewoon boerenblauwtje}
-        =Prunus domestica 11 [species]
-      Prunus domestica insititia (Gro-11) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjes Gro-12}
-        =Prunus domestica 12 [species]
-      Prunus domestica insititia (Gro-12) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim smal boerenblauwtje}
-        =Prunus domestica 13 [species]
-      Prunus domestica insititia (Gro-13) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Bonne de Bry}
-        =Prunus domestica 2 [species]
-      Prunus domestica insititia (Gro-2) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjespruim St. Julien}
-        =Prunus domestica 3 [species]
-      Prunus domestica insititia (Gro-3) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Dordogne,nld:Kroosjespruim}
-        =Prunus domestica 4 [species]
-      Prunus domestica insititia (Gro-4) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjespruim boerewitte}
-        =Prunus domestica 5 [species]
-      Prunus domestica insititia (Gro-5) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim,, enkele boerenwitte}
-        =Prunus domestica 5a [species]
-      Prunus domestica insititia (Gro-5a) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim,, dubbele boerenwitte}
-        =Prunus domestica 5b [species]
-      Prunus domestica insititia (Gro-5b) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjespruim Blijham}
-        =Prunus domestica 6 [species]
-      Prunus domestica insititia (Gro-6) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjes Gro-6/12}
-        =Prunus domestica 6/12 [species]
       Prunus [genus] {VERN=nld:Ganzenpruim,eng:goose plum}
         Prunus americana [species] {VERN=fra:Abricotier,nld:Abrikoos,eng:Apricot,deu:Aprikose}
         Prunus armeniaca [species] {VERN=eng:Gean / Wild Cherry,fra:Merisier,deu:Süsskirsche,nld:Zoete kers}
@@ -3125,6 +3076,36 @@ Plantae [kingdom]
         Prunus cerasifera [species] {VERN=eng:Dwarf Cherry / Sour Cherry,fra:Griottier,deu:Weichselkirsche,nld:Zure kers}
         Prunus cerasus [species] {VERN=deu:Weichselkirsche/Traubenkirsche,nld:Zure kers/Gewone vogelkers,eng:dwarf cherry/bird cherry}
         Prunus domestica [species] {VERN=nld:Pershore pruim}
+          Prunus domestica domestica (Gro-10) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim kwets}
+            =Prunus domestica 7 [species]
+          Prunus domestica domestica (Gro-7) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim spilling}
+            =Prunus domestica 8 [species]
+          Prunus domestica domestica (Gro-8) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim van Damast}
+            =Prunus domestica 9 [species]
+          Prunus domestica domestica (Gro-9) [infraspecific_name] {CODE=BOTANICAL VERN=eng:Bullace,nld:Kroosjes,fra:Prunier crèque}
+          Prunus domestica insititia [subspecies]
+            Prunus domestica insititia (Gro-1) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Gewoon boerenblauwtje}
+              =Prunus domestica 11 [species]
+            Prunus domestica insititia (Gro-11) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjes Gro-12}
+              =Prunus domestica 12 [species]
+            Prunus domestica insititia (Gro-12) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim smal boerenblauwtje}
+              =Prunus domestica 13 [species]
+            Prunus domestica insititia (Gro-13) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Bonne de Bry}
+              =Prunus domestica 2 [species]
+            Prunus domestica insititia (Gro-2) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjespruim St. Julien}
+              =Prunus domestica 3 [species]
+            Prunus domestica insititia (Gro-3) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Dordogne,nld:Kroosjespruim}
+              =Prunus domestica 4 [species]
+            Prunus domestica insititia (Gro-4) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjespruim boerewitte}
+              =Prunus domestica 5 [species]
+            Prunus domestica insititia (Gro-5) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim,, enkele boerenwitte}
+              =Prunus domestica 5a [species]
+            Prunus domestica insititia (Gro-5a) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim,, dubbele boerenwitte}
+              =Prunus domestica 5b [species]
+            Prunus domestica insititia (Gro-5b) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjespruim Blijham}
+              =Prunus domestica 6 [species]
+            Prunus domestica insititia (Gro-6) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjes Gro-6/12}
+              =Prunus domestica 6/12 [species]
           Prunus domestica cv. pershore [cultivar] {CODE=CULTIVARS VERN=nld:Tonneboer pruim}
           Prunus domestica cv. tonneboer [cultivar] {CODE=CULTIVARS VERN=eng:Plum,nld:Pruim s.s.,fra:Prunier}
             =Prunus domestica domestica [subspecies]
@@ -3367,9 +3348,7 @@ Plantae [kingdom]
         Odontites vernus [species] {VERN=nld:Vroege ogentroost}
           =Odontites litoralis [species]
           Odontites vernus subsp. litoralis [subspecies] {CODE=BOTANICAL VERN=nld:Late ogentroost,eng:Red Bartsia}
-            =Odontites vernus serotinus [subspecies]
           Odontites vernus subsp. serotinus [subspecies] {CODE=BOTANICAL VERN=nld:Akkerogentroost}
-            =Odontites vernus vernus [subspecies]
           Odontites vernus subsp. vernus [subspecies] {CODE=BOTANICAL VERN=fra:Oenanthe,deu:Pferdesaat,nld:Torkruid,eng:Water-dropwort}
       Parentucellia [genus] {VERN=deu:Drüsiges Zahntrost,fra:Eufragie visqueuse,nld:Kleverige ogentroost,eng:Yellow Bartsia}
         Parentucellia viscosa [species] {VERN=deu:Glaskraut,nld:Glaskruid,fra:Pariètaire,eng:Pellitory-of-the-wall}
