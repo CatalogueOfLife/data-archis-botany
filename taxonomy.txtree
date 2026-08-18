@@ -381,6 +381,7 @@ Plantae [kingdom]
       Carthamus [genus] {VERN=fra:Carthame,nld:Saffloer,eng:Safflower,deu:Saflor}
         Carthamus tinctorius [species] {VERN=fra:Carthame des teinturiers,deu:Färber-Saflor,nld:Saffloer,eng:Safflower}
       Centaurea [genus] {VERN=nld:Centaurie,fra:Centaurée,deu:Flockenblume,eng:Knapweed}
+        Centaurea benedicta [species] {VERN=nld:Gezegende distel,eng:Blessed thistle,fra:Chardon béni,deu:Benediktenkraut}=Cnicus benedictus [species]
         Centaurea calcitrapa [species] {VERN=fra:Centaurée chausse-trape,deu:Fussangel-Flockenblume,nld:Kalkentrip,eng:Star-thistle}
         Centaurea cyanus [species] {VERN=fra:Centaurée bleuet,eng:Cornflower,nld:Korenbloem,deu:Kornblume}
         Centaurea jacea [species] {VERN=eng:Brown Knapweed,fra:Centaurée jacée,nld:Knoopkruid,deu:Wiesenflockenblume}
