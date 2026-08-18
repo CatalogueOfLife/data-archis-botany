@@ -39,7 +39,7 @@ Plantae [kingdom]
       Sagittaria [genus] {VERN=eng:Arrowhead,deu:Pfeilkraut,nld:Pijlkruid,fra:Sagittaire}
         Sagittaria latifolia [species] {VERN=nld:Breed pijlkruid}
         Sagittaria sagittifolia [species] {VERN=eng:Arrowhead,deu:Gewöhnliches Pfeilkraut,nld:Pijlkruid,fra:Sagittaire}
-    Amaranthaceae [family] {VERN=nld:Amarantfamilie}
+    Amaranthaceae [family] {VERN=nld:Amarantfamilie}=Chenopodiaceae [family]
       Amaranthus [genus] {VERN=nld:Amarant,deu:Amarant,fra:Amarante,eng:Amaranth}
         Amaranthus albus [species] {VERN=fra:Amarante blanche,deu:Weißer Amarant,eng:White Amaranth / White Pigweed,nld:Witte amarant}
         Amaranthus blitoides [species] {VERN=fra:Amarante à feuilles marginées,nld:Nerfamarant,eng:Prostate Pigweed,deu:Westamerikanischer Amarant}
