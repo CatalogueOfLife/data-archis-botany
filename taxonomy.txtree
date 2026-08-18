@@ -2940,8 +2940,9 @@ Plantae [kingdom]
       Myosurus [genus] {VERN=eng:Mouse-tail,nld:Muizenstaart,deu:Mäuseschwanz,fra:Ratoncule naine}
         Myosurus minimus [species] {VERN=nld:Gagel,deu:Gagel,eng:Gale,fra:Myrica}
       Nigella [genus] {VERN=deu:Acker-Schwarzkümmel,fra:Nigelle des champs,eng:Wild Fennel-flower,nld:Wilde nigelle}
-        Nigella arvensis [species] {VERN=deu:Gretchen-im-Busch,nld:Juffertje-in-'t-groen,eng:Love-in-a-mist,fra:Nigelle de Damas}
-        Nigella damascena [species] {VERN=nld:Glanswier}
+        Nigella arvensis [species] {VERN=deu:Gretchen-im-Busch,nld:Wilde nigelle,eng:Love-in-a-mist,fra:Nigelle de Damas}
+        Nigella damascena [species] {VERN=nld:Juffertje-in-'t-groen}
+        Nigella sativa [species] {VERN=nld:Zwarte komijn,eng:Black cumin,deu:Schwarzkümmel,fra:Cumin noir}
       Pulsatilla [genus] {VERN=fra:Anémone pulsatille,deu:Kuhschelle,eng:Pasqueflower,nld:Wildemanskruid}
         Pulsatilla vulgaris [species] {VERN=deu:Gewöhnliche Küchenschelle,nld:Wildemanskruid}
       Ranunculus (Batrachium) [subgenus] {VERN=nld:Waterranonkel}
