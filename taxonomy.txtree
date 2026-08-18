@@ -2985,6 +2985,7 @@ Plantae [kingdom]
         Reseda alba [species] {VERN=fra:Réséda blanc,deu:Weiße Reseda,eng:White Mignonette,nld:Witte reseda}
         Reseda lutea [species] {VERN=deu:Gelbe Reseda,fra:Réséda jaune,eng:Wild Mignonette,nld:Wilde reseda}
         Reseda luteola [species] {VERN=deu:Färber-Reseda,fra:Gaude,eng:Weld / Dyer's Rocket,nld:Wouw}
+        Reseda odorata [species] {VERN=nld:Welriekende reseda,eng:Garden mignonette,deu:Wohlriechende Resede,fra:Mignonette}
     Rhamnaceae [family] {VERN=nld:Wegedoornfamilie}
       Rhamnus [genus] {VERN=eng:Buckthorn,deu:Kreuzdorn,fra:Nerprun purgatif,nld:Vuilboom}
         Rhamnus cathartica [species] {VERN=deu:Gemeiner Kreuzdorn,fra:Nerprun purgatif,eng:Purging Buckthorn,nld:Wegedoorn}
