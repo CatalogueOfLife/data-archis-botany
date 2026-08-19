@@ -39,7 +39,8 @@ Plantae [kingdom]
       Sagittaria [genus] {VERN=eng:Arrowhead,deu:Pfeilkraut,nld:Pijlkruid,fra:Sagittaire}
         Sagittaria latifolia [species] {VERN=nld:Breed pijlkruid}
         Sagittaria sagittifolia [species] {VERN=eng:Arrowhead,deu:Gewöhnliches Pfeilkraut,nld:Pijlkruid,fra:Sagittaire}
-    Amaranthaceae [family] {VERN=nld:Amarantfamilie}=Chenopodiaceae [family]
+    Amaranthaceae [family] {VERN=nld:Amarantfamilie}
+      =Chenopodiaceae [family]
       Amaranthus [genus] {VERN=nld:Amarant,deu:Amarant,fra:Amarante,eng:Amaranth}
         Amaranthus albus [species] {VERN=fra:Amarante blanche,deu:Weißer Amarant,eng:White Amaranth / White Pigweed,nld:Witte amarant}
         Amaranthus blitoides [species] {VERN=fra:Amarante à feuilles marginées,nld:Nerfamarant,eng:Prostate Pigweed,deu:Westamerikanischer Amarant}
@@ -381,7 +382,8 @@ Plantae [kingdom]
       Carthamus [genus] {VERN=fra:Carthame,nld:Saffloer,eng:Safflower,deu:Saflor}
         Carthamus tinctorius [species] {VERN=fra:Carthame des teinturiers,deu:Färber-Saflor,nld:Saffloer,eng:Safflower}
       Centaurea [genus] {VERN=nld:Centaurie,fra:Centaurée,deu:Flockenblume,eng:Knapweed}
-        Centaurea benedicta [species] {VERN=nld:Gezegende distel,eng:Blessed thistle,fra:Chardon béni,deu:Benediktenkraut}=Cnicus benedictus [species]
+        Centaurea benedicta [species] {VERN=nld:Gezegende distel,eng:Blessed thistle,fra:Chardon béni,deu:Benediktenkraut}
+          =Cnicus benedictus [species]
         Centaurea calcitrapa [species] {VERN=fra:Centaurée chausse-trape,deu:Fussangel-Flockenblume,nld:Kalkentrip,eng:Star-thistle}
         Centaurea cyanus [species] {VERN=fra:Centaurée bleuet,eng:Cornflower,nld:Korenbloem,deu:Kornblume}
         Centaurea jacea [species] {VERN=eng:Brown Knapweed,fra:Centaurée jacée,nld:Knoopkruid,deu:Wiesenflockenblume}
