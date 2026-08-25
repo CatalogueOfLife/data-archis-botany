@@ -3088,7 +3088,8 @@ Plantae [kingdom]
           Prunus domestica domestica (Gro-8) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim van Damast}
             =Prunus domestica 9 [species]
           Prunus domestica domestica (Gro-9) [infraspecific_name] {CODE=BOTANICAL VERN=eng:Bullace,nld:Kroosjes,fra:Prunier crèque}
-          Prunus domestica insititia [subspecies]
+          Prunus domestica subsp. insititia [subspecies] {CODE=BOTANICAL VERN=nld:Bonte kroospruim}
+            =Prunus domestica 1 [species]
             Prunus domestica insititia (Gro-1) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Gewoon boerenblauwtje}
               =Prunus domestica 11 [species]
             Prunus domestica insititia (Gro-11) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjes Gro-12}
@@ -3117,8 +3118,6 @@ Plantae [kingdom]
           Prunus domestica italica [subspecies] {VERN=nld:Nancy-mirabel,eng:white bullace}
           Prunus domestica subsp. domestica [subspecies] {CODE=BOTANICAL VERN=nld:Varkenspruim}
             =Prunus domestica 10 [species]
-          Prunus domestica subsp. insititia [subspecies] {CODE=BOTANICAL VERN=nld:Bonte kroospruim}
-            =Prunus domestica 1 [species]
           Prunus domestica syriaca [subspecies] {VERN=nld:Pruim/Sleedoorn}
         Prunus dulcis [species] {VERN=nld:Laurierkers}
         Prunus laurocerasus [species] {VERN=fra:Bois de Sainte-Lucie,eng:Saint Lucie Cherry,deu:Steinweichsel,nld:Weichselboom}
