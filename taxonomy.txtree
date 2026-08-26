@@ -425,6 +425,10 @@ Plantae [kingdom]
         Crepis paludosa [species] {VERN=fra:Crépis des marais,eng:Marsh Hawk's-beard,nld:Moerasstreepzaad,deu:Sumpfpippau}
         Crepis setosa [species] {VERN=fra:Barkhausie hérissée,nld:Borstelstreepzaad,deu:Borstiger Pippau,eng:Bristly Hawk's-beard}
         Crepis tectorum [species] {VERN=fra:Crépis des toits,deu:Dachpippau,eng:Hawk's-beard,nld:Smal streepzaad}
+      Cynara [genus]
+        Cynara cardunculus [species]
+          Cynara cardunculus var. hortensis [variety] {VERN=nld:Kardoen,nld:Artisjok,eng:Cardoon,eng:Globe artichoke,fra:Le cardon,deu:Kardone,deu:Garten-Artischocke}
+          =Cynara scolymus [species]
       Dittrichia [genus]
         Dittrichia viscosa [species] {VERN=nld:Kleverige alant}
       Doronicum [genus] {VERN=fra:Doronic,deu:Gemswurz,eng:Leopard's-bane,nld:Voorjaarszonnebloem}
@@ -594,7 +598,8 @@ Plantae [kingdom]
         Taraxacum laevigatum [species] {VERN=fra:Dent-de-lion,eng:Lesser Dandelion,deu:Rotfrüchtiger Löwenzahn,nld:Zandpaardenbloem}
         Taraxacum nordstedtii [species] {VERN=nld:Paardenbloem}
         Taraxacum obliquum [species] {VERN=fra:Dent-de-lion,deu:Dünen-Löwenzahn,eng:Lesser Dandelion,nld:Oranjegele paardenbloem}
-        Taraxacum officinale [species] {VERN=nld:Paardenbloem}
+        Taraxacum officinale [species] {VERN=fra:Dent-de-lion,nld:Paardenbloem,eng:Dandelion,deu:Löwenzahn}
+        =Taraxacum officinale s.l. [species]
         Taraxacum oxoniense [species] {VERN=nld:Paardenbloem}
         Taraxacum palustre [species] {VERN=fra:Dent-de-lion,nld:Moeraspaardenbloem,eng:Narrow-leaved Marsh-dandelion,deu:Sumpf-Löwenzahn}
         Taraxacum taeniatum [species] {VERN=nld:Paardenbloem}
@@ -651,6 +656,7 @@ Plantae [kingdom]
         Carpinus betulus [species] {VERN=fra:Charme,nld:Haagbeuk,deu:Hainbuche,eng:Hornbeam}
       Corylus [genus] {VERN=fra:Coudrier,deu:Hasel,eng:Hazel,nld:Hazelaar}
         Corylus avellana [species] {VERN=fra:Coudrier,deu:Haselstrauch,eng:Hazel,nld:Hazelaar}
+      Ostrya [genus] {VERN=nld:Hopbeuk,eng:Hop-hornbeam,fra:Charme-houblon,deu:Hopfenbuche}
     Bignoniaceae [family]
       Catalpa [genus]
         Catalpa bignonioides [species] {VERN=nld:Trompetboom}
@@ -1732,6 +1738,8 @@ Plantae [kingdom]
       Iris [genus] {VERN=fra:Iris,eng:Iris / Flag,nld:Lis,deu:Schwertlilie}
         Iris foetidissima [species] {VERN=eng:Gladdon / Stinking Iris,fra:Iris fétide,nld:Stinkende lis,deu:Uebelriechede Iris}
         Iris pseudacorus [species] {VERN=deu:Gelbe Schwertlilie,nld:Gele lis,fra:Iris jaune,eng:Yellow Flag / Yellow Iris}
+        Iris x germanica [species] {VERN=nld:Blauwe lis,eng:German bearded iris,eng:German iris,fra:Iris germanique,deu:Deutsche Schwertlilie]
+          =Iris germanica [species]
     Isoetaceae [family] {VERN=nld:Biesvarenfamilie}
       Isoetes [genus] {VERN=nld:Biesvaren,deu:Brachsenkraut,fra:Isoète,eng:Quillwort}
         Isoetes echinospora [species] {VERN=fra:Isoète à spores spinuleuses,nld:Kleine biesvaren,eng:Spring Quillwort,deu:Stachelsporiges Brachsenkraut}
@@ -1978,6 +1986,7 @@ Plantae [kingdom]
         Lilium bulbiferum [species] {VERN=nld:Roggelelie s.l.}
           Lilium bulbiferum subsp. bulbiferum [subspecies] {CODE=BOTANICAL VERN=nld:Oranjelelie}
           Lilium bulbiferum subsp. croceum [subspecies] {CODE=BOTANICAL VERN=nld:Roggelelie s.s.}
+        Lilium candidum [species] {VERN=nld:Madonnalelie,eng:Madonna lily,fra:Lis de la madone}
         Lilium martagon [species] {VERN=fra:Lis martagon,eng:Martagon Lily,nld:Turkse lelie,deu:Türkenbund}
       Maianthemum [genus] {VERN=nld:Dalkruid,eng:May Lily,fra:Mianthème,deu:Schattenblümchen}
         Maianthemum bifolium [species] {VERN=nld:Dalkruid,eng:May Lily,fra:Mianthème à deux feuilles,deu:Schattenblume}
@@ -2790,6 +2799,7 @@ Plantae [kingdom]
         Rumex acetosella [species] {VERN=deu:Kleiner Sauerampfer,fra:Petite oseille,nld:Schapenzuring,eng:Sheep's Sorrel}
           =Rumex angiocarpus [species]
           Rumex acetosella subsp. angiocarpus [subspecies] {CODE=BOTANICAL VERN=nld:Schapenzuring subsp. angiocarpus}
+          Rumex acetosella subsp. pyrenaicus [subspecies]
         Rumex aquaticus [species] {VERN=nld:Paardenzuring,fra:Parelle,eng:Scottish Dock,deu:Wasser-Ampfer}
         Rumex conglomeratus [species] {VERN=nld:Kluwenzuring,deu:Knäuelblütiger Ampfer,fra:Patience agglomerée,eng:Sharp Dock}
         Rumex crispus [species] {VERN=eng:Curled Dock,deu:Krauser Ampfer,nld:Krulzuring,fra:Oseille crépue}
