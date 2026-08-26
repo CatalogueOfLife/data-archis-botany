@@ -1179,6 +1179,7 @@ Plantae [kingdom]
         Cupressus sempervirens [species] {VERN=nld:Cypres}
       Juniperus [genus] {VERN=fra:Genévrier,eng:Juniper,nld:Juniperus,deu:Wacholder}
         Juniperus communis [species] {VERN=fra:Genévrier commun,nld:Jeneverbes,eng:Juniper,deu:Wachholder}
+        Juniperus sabina [species] {VERN=nld:Zevenboom,nld:Sabijnse jeneverbes,eng:Savin juniper,fra:Genévrier sabine,deu:Sadebaum}
       Taxodium [genus] {VERN=fra:Cyprès chauve,nld:Moerascipres,deu:Sumpfzypresse,eng:Swamp Cypress}
         Taxodium distichum [species] {VERN=fra:Cyprès chauve,nld:Moerascipres,eng:Swamp Cypress,deu:Zweizeilige Sumpfzypresse}
       Thuja [genus] {VERN=eng:Arbor vitae,deu:Lebensbaum,nld:Levensboom,fra:Thuja}
@@ -1724,6 +1725,7 @@ Plantae [kingdom]
     Iridaceae [family] {VERN=nld:Lisfamilie}
       Crocus [genus] {VERN=eng:Crocus,fra:Crocus,nld:Krokus,deu:Krokus}
         Crocus chrysanthus [species] {VERN=nld:Vroege krokus}
+        Crocus sativus [species] {VERN=nld:Saffraankrokus,eng:Saffron crocus,fra=Safran,deu:Safrankrokus}
         Crocus tommasinianus [species] {VERN=nld:Boerenkrokus,eng:Early Crocus,deu:Tommasini-Krokus}
         Crocus vernus [species] {VERN=nld:Bonte krokus,fra:Crocus printanier,eng:Dutch Crocus / Spring Crocus,deu:Weißer Krokus}
         Crocus × stellaris [species] {VERN=nld:Gele krokus}
@@ -2781,6 +2783,7 @@ Plantae [kingdom]
         Polygonum viviparum [species] {VERN=nld:Eikvarenfamilie}
       Rheum [genus] {VERN=nld:Rabarber,deu:Rhabarber,eng:Rhubarb,fra:Rhubarbe}
         Rheum rhabarbarum x rhaponticum [species] {VERN=nld:Rabarber}
+          =Rheum x rharbabarum [species]
           =Rheum × hybridum [species]
       Rumex [genus] {VERN=deu:Ampfer,eng:Dock,fra:Oseille,nld:Zuring}
         Rumex acetosa [species] {VERN=eng:Common Sorrel,fra:Oseille sauvage,nld:Veldzuring,deu:Wiesen-Sauerampfer}
