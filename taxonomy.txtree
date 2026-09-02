@@ -3102,27 +3102,27 @@ Plantae [kingdom]
           Prunus domestica domestica (Gro-9) [infraspecific_name] {CODE=BOTANICAL VERN=eng:Bullace,nld:Kroosjes,fra:Prunier crèque}
           Prunus domestica subsp. insititia [subspecies] {CODE=BOTANICAL VERN=nld:Bonte kroospruim}
             =Prunus domestica 1 [species]
-            Prunus domestica insititia (Gro-1) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Gewoon boerenblauwtje}
+            Prunus domestica insititia (Gro-1) [infraspecific_name] {VERN=nld:Gewoon boerenblauwtje}
               =Prunus domestica 11 [species]
-            Prunus domestica insititia (Gro-11) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjes Gro-12}
+            Prunus domestica insititia (Gro-11) [infraspecific_name] {VERN=nld:Kroosjes Gro-12}
               =Prunus domestica 12 [species]
-            Prunus domestica insititia (Gro-12) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim smal boerenblauwtje}
+            Prunus domestica insititia (Gro-12) [infraspecific_name] {VERN=nld:Pruim smal boerenblauwtje}
               =Prunus domestica 13 [species]
-            Prunus domestica insititia (Gro-13) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Bonne de Bry}
+            Prunus domestica insititia (Gro-13) [infraspecific_name] {VERN=nld:Bonne de Bry}
               =Prunus domestica 2 [species]
-            Prunus domestica insititia (Gro-2) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjespruim St. Julien}
+            Prunus domestica insititia (Gro-2) [infraspecific_name] {VERN=nld:Kroosjespruim St. Julien}
               =Prunus domestica 3 [species]
-            Prunus domestica insititia (Gro-3) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Dordogne,nld:Kroosjespruim}
+            Prunus domestica insititia (Gro-3) [infraspecific_name] {VERN=nld:Dordogne,nld:Kroosjespruim}
               =Prunus domestica 4 [species]
-            Prunus domestica insititia (Gro-4) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjespruim boerewitte}
+            Prunus domestica insititia (Gro-4) [infraspecific_name] {VERN=nld:Kroosjespruim boerewitte}
               =Prunus domestica 5 [species]
-            Prunus domestica insititia (Gro-5) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim,, enkele boerenwitte}
+            Prunus domestica insititia (Gro-5) [infraspecific_name] {VERN=nld:Pruim,, enkele boerenwitte}
               =Prunus domestica 5a [species]
-            Prunus domestica insititia (Gro-5a) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim,, dubbele boerenwitte}
+            Prunus domestica insititia (Gro-5a) [infraspecific_name] {VERN=nld:Pruim,, dubbele boerenwitte}
               =Prunus domestica 5b [species]
-            Prunus domestica insititia (Gro-5b) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjespruim Blijham}
+            Prunus domestica insititia (Gro-5b) [infraspecific_name] {VERN=nld:Kroosjespruim Blijham}
               =Prunus domestica 6 [species]
-            Prunus domestica insititia (Gro-6) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Kroosjes Gro-6/12}
+            Prunus domestica insititia (Gro-6) [infraspecific_name] {VERN=nld:Kroosjes Gro-6/12}
               =Prunus domestica 6/12 [species]
           Prunus domestica cv. pershore [cultivar] {CODE=CULTIVARS VERN=nld:Tonneboer pruim}
           Prunus domestica cv. tonneboer [cultivar] {CODE=CULTIVARS VERN=eng:Plum,nld:Pruim s.s.,fra:Prunier}
