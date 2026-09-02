@@ -3098,10 +3098,10 @@ Plantae [kingdom]
           Prunus domestica domestica (Gro-7) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim spilling}
             =Prunus domestica 8 [unranked]
           Prunus domestica domestica (Gro-8) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim van Damast}
-            =Prunus domestica 9 [species]
+            =Prunus domestica 9 [infraspecific_name]
           Prunus domestica domestica (Gro-9) [infraspecific_name] {CODE=BOTANICAL VERN=eng:Bullace,nld:Kroosjes,fra:Prunier crèque}
           Prunus domestica subsp. insititia [subspecies] {CODE=BOTANICAL VERN=nld:Bonte kroospruim}
-            =Prunus domestica 1 [species]
+            =Prunus domestica 1 [infraspecific_name]
             Prunus domestica insititia (Gro-1) [infraspecific_name] {VERN=nld:Gewoon boerenblauwtje}
               =Prunus domestica 11 [species]
             Prunus domestica insititia (Gro-11) [infraspecific_name] {VERN=nld:Kroosjes Gro-12}
