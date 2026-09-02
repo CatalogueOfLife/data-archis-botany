@@ -1982,7 +1982,7 @@ Plantae [kingdom]
         Leucojum aestivum [species] {VERN=fra:Nivéole d'été,deu:Spätblühende Knotenblume,eng:Summer Snowflake,nld:Zomerklokje}
         Leucojum vernum [species] {VERN=nld:Lenteklokje,deu:Märzenglöckchen,fra:Nivéole printanière,eng:Spring Snowflake}
       Lilium [genus] {VERN=nld:Lelie,deu:Lilie,eng:Lily,fra:Lis}
-        Lilium bulbiferum [species] {VERN=nld:Roggelelie s.l.}
+        Lilium bulbiferum [species] {VERN=nld:Roggelelie}
           Lilium bulbiferum subsp. bulbiferum [subspecies] {CODE=BOTANICAL VERN=nld:Oranjelelie}
           Lilium bulbiferum subsp. croceum [subspecies] {CODE=BOTANICAL VERN=nld:Roggelelie s.s.}
         Lilium candidum [species] {VERN=nld:Madonnalelie,eng:Madonna lily,fra:Lis de la madone}
@@ -1996,7 +1996,7 @@ Plantae [kingdom]
         Muscari comosum [species] {VERN=fra:Laitue des murailles,deu:Mauerlattich,nld:Muursla,eng:Wall Lettuce}
       Narcissus [genus] {VERN=eng:Jonquil,nld:Jonquille,fra:Narcisse,deu:Osterglockenartige Narzisse}
         Narcissus jonquilla [species] {VERN=deu:Gartennarzisse,fra:Narcisse des poètes,eng:Pheasant's-eye Daffodil,nld:Witte narcis}
-        Narcissus poeticus [species] {VERN=fra:Jonquille,deu:Osterglocke,eng:Wild Daffodil,nld:Wilde narcis s.l.}
+        Narcissus poeticus [species] {VERN=fra:Jonquille,deu:Osterglocke,eng:Wild Daffodil,nld:Wilde narcis}
         Narcissus pseudonarcissus [species] {VERN=nld:Trompetnarcis}
           Narcissus pseudonarcissus subsp. major [subspecies] {CODE=BOTANICAL VERN=nld:Wilde narcis s.s.}
           Narcissus pseudonarcissus subsp. pseudonarcissus [subspecies] {CODE=BOTANICAL VERN=nld:Witte x Wilde narcis}
