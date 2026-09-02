@@ -3094,9 +3094,9 @@ Plantae [kingdom]
         Prunus cerasus [species] {VERN=deu:Weichselkirsche/Traubenkirsche,nld:Zure kers/Gewone vogelkers,eng:dwarf cherry/bird cherry}
         Prunus domestica [species] {VERN=nld:Pershore pruim}
           Prunus domestica domestica (Gro-10) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim kwets}
-            =Prunus domestica 7 [species]
+            =Prunus domestica 7 [unranked]
           Prunus domestica domestica (Gro-7) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim spilling}
-            =Prunus domestica 8 [species]
+            =Prunus domestica 8 [unranked]
           Prunus domestica domestica (Gro-8) [infraspecific_name] {CODE=BOTANICAL VERN=nld:Pruim van Damast}
             =Prunus domestica 9 [species]
           Prunus domestica domestica (Gro-9) [infraspecific_name] {CODE=BOTANICAL VERN=eng:Bullace,nld:Kroosjes,fra:Prunier crèque}
