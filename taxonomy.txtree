@@ -357,8 +357,6 @@ Plantae [kingdom]
           =Aster tradescantii L. [species]
         Aster macrophyllus [species] {VERN=fra:Aster à grande feuilles,deu:Grossblättrige Aster,nld:Grote aster,eng:Large-leaved Aster}
         Aster novi-belgii [species] {VERN=deu:Neubelgische Aster,nld:Nieuwnederlandse aster}
-        Tripolium pannonicum (Jacq.) Dobrocz. [species] {VERN=fra:Aster maritime,eng:Sea Aster,deu:Strandaster,nld:Zulte}
-          =Aster tripolium [species]
           Aster tripolium f. discoideus [form] {VERN=fra:Aster maritime,eng:Sea Aster,deu:Strandaster,nld:Zulte}
         Aster × versicolor [species] {VERN=fra:Aster versicolore,deu:Bunte Aster,nld:Herfstaster}
       Baccharis [genus]
@@ -630,6 +628,9 @@ Plantae [kingdom]
           =Matricaria maritima L. [species]
           Tripleurospermum maritimum subsp. inodorum [subspecies] {CODE=BOTANICAL VERN=nld:Reukeloze kamille}
             =Matricaria maritima subsp. inodora [subspecies] {CODE=BOTANICAL}
+      Tripolium Nees [genus]
+        Tripolium pannonicum (Jacq.) Dobrocz. [species] {VERN=fra:Aster maritime,eng:Sea Aster,deu:Strandaster,nld:Zulte}
+          =Aster tripolium [species]
       Tussilago [genus] {VERN=eng:Coltsfoot,deu:Huflattich,nld:Klein hoefblad,fra:Tussilage}
         Tussilago farfara [species] {VERN=eng:Coltsfoot,deu:Huflattich,nld:Klein hoefblad,fra:Tussilage}
       Xanthium [genus] {VERN=eng:Cocklebur,fra:Lampourde,deu:Spitzklette,nld:Stekelnoot}
@@ -673,7 +674,8 @@ Plantae [kingdom]
       Catalpa [genus]
         Catalpa bignonioides [species] {VERN=nld:Trompetboom}
     Blechnaceae [family] {VERN=nld:Dubbellooffamilie}
-      Blechnum [genus] {VERN=fra:Blechnum,nld:Dubbelloof,eng:Hard Fern,deu:Rippenfarn}
+      Blechnum [genus] 
+      Struthiopteris Scop. [genus] {VERN=fra:Blechnum,nld:Dubbelloof,eng:Hard Fern,deu:Rippenfarn}
         Struthiopteris spicant (L.) F.G.Weiss [species] {VERN=fra:Blechnum en épi,nld:Dubbelloof,eng:Hard Fern,deu:Rippenfarn}
           =Blechnum spicant L. [species]
     Boraginaceae [family] {VERN=nld:Ruwbladigenfamilie}
