@@ -184,6 +184,9 @@ Plantae [kingdom]
       Daucus [genus] {VERN=fra:Carotte,eng:Carrot,deu:Möhre,nld:Peen}
         Daucus carota [species] {VERN=fra:Carotte,deu:Mohrrübe,nld:Peen,eng:Wild Carrot}
           Daucus carota subsp. sativus [subspecies] {CODE=BOTANICAL VERN=eng:Carrot,nld:Gekweekte peen}
+      Dichoropetalum Fenzl [genus]
+        Dichoropetalum carvifolia (Vill.) Pimenov & Kljuykov [species] {VERN=nld:Varkensvenkel}
+          =Peucedanum carvifolia Vill. [species] 
       Eryngium [genus] {VERN=nld:Kruisdistel,deu:Mannstreu,fra:Panicaut,eng:Sea-holly}
         Eryngium campestre [species] {VERN=fra:Chardon roulant,nld:Echte kruisdistel,deu:Feld-Mannstreu,eng:Field Eryngo}
         Eryngium maritimum [species] {VERN=nld:Blauwe zeedistel,fra:Panicaut des dunes,eng:Sea-holly,deu:Strand-Mannstreu}
@@ -220,8 +223,6 @@ Plantae [kingdom]
         Petroselinum crispum [species] {VERN=eng:Corn Parsley,fra:Persil des moissons,deu:Saat-Petersilie,nld:Wilde peterselie}
         Petroselinum segetum [species] {VERN=deu:Haarstrang,eng:Milk Parsley,fra:Peucédan,nld:Varkenskervel}
       Peucedanum [genus] {VERN=eng:Caraway-Milk Parsley,nld:Karwijvarkenskervel,deu:Kümmel-Haarstrang,fra:Peucédan à feuilles de carvi}
-        Dichoropetalum carvifolia (Vill.) Pimenov & Kljuykov [species] {VERN=nld:Varkensvenkel}
-          =Peucedanum carvifolia Vill. [species] 
         Peucedanum officinale [species] {VERN=nld:Melkeppe,eng:Milk Parsley,fra:Peucédan des marais,deu:Sumpf-Haarstrang}
         Peucedanum palustre [species] {VERN=deu:Büschelschön,eng:Phacelia,nld:Phacelia,fra:Phacélie}
       Pimpinella [genus] {VERN=nld:Anijs,deu:Anis,fra:Anis,eng:Anise}
@@ -428,6 +429,10 @@ Plantae [kingdom]
         Crepis paludosa [species] {VERN=fra:Crépis des marais,eng:Marsh Hawk's-beard,nld:Moerasstreepzaad,deu:Sumpfpippau}
         Crepis setosa [species] {VERN=fra:Barkhausie hérissée,nld:Borstelstreepzaad,deu:Borstiger Pippau,eng:Bristly Hawk's-beard}
         Crepis tectorum [species] {VERN=fra:Crépis des toits,deu:Dachpippau,eng:Hawk's-beard,nld:Smal streepzaad}
+      Cyclachaena Fresen. [genus] {VERN=fra:Faux quinquina,eng:Iva,nld:Iva,deu:Schlagkraut}
+        =Iva L. [genus]
+        Cyclachaena xanthiifolia (Nutt.) Fresen. [species] {VERN=eng:Cocklebur-leaved Iva,fra:Faux quinquina,nld:Iva,deu:Spitzklettenblättriges Rispenkraut}
+          =Iva xanthiifolia [species]
       Cynara [genus]
         Cynara cardunculus [species]
           Cynara cardunculus var. hortensis [variety] {VERN=nld:Kardoen,nld:Artisjok,eng:Cardoon,eng:Globe artichoke,fra:Le cardon,deu:Kardone,deu:Garten-Artischocke}
@@ -481,15 +486,11 @@ Plantae [kingdom]
         Hieracium aurantiacum [species] {VERN=fra:Epervière orangée,eng:Fox-and-cubs,deu:Orangerotes Habichtskraut,nld:Oranje havikskruid}
         Hieracium caespitosum [species] {VERN=fra:Epervière des prairies,eng:Turfy Hawkweed,nld:Weidehavikskruid,deu:Wiesenhabichtskraut}
         Hieracium diaphanoides [species] {VERN=nld:Beklierd havikskruid}
-        Pilosella lactucella (Wallr.) P.D.Sell & C.West [species] {VERN=eng:Eared Hawkweed,fra:Epervière petite-laitue,nld:Spits havikskruid,deu:Ährchenhabichtskraut}
-          =Hieracium lactucella [species]
           =Hieracium auricula Lam & DC. [species]
         Hieracium laevigatum [species] {VERN=fra:Epervière lisse,deu:Glattes Habichtskraut,eng:Smooth Hawkweed,nld:Stijf havikskruid}
         Hieracium laurinum [species] {VERN=nld:Hieracium laurinum}
         Hieracium maculatum [species] {VERN=deu:Geflecktes Habichtskraut,nld:Gevlekt havikskruid}
         Hieracium murorum [species] {VERN=deu:Mauer-Habichtskraut,nld:Muurhavikskruid}
-        Pilosella peleteriana (Mérat) F.W.Schultz & Sch.Bip. [species] {VERN=fra:Epervière de Lepeletier,eng:Peletier's Hawkweed,deu:Peletiers Habichtskraut,nld:Vals muizenoor}
-          =Hieracium peleterianum [species]
         Hieracium pilosella [species] {VERN=fra:Epervière piloselle,deu:Langhaariges Habischtskraut,eng:Mouse-ear Hawkweed,nld:Muizenoor}
         Hieracium praealtum [species] {VERN=fra:Epervière fausse-piloselle & de Bauhin,deu:Florentiner & Bauhins Habichtskraut,nld:Grijs havikskruid,eng:Non-stoloniferous Hawkweed}
           Hieracium praealtum subsp. bauhinii [subspecies] {CODE=BOTANICAL VERN=deu:Bauhins Habichtskraut,fra:Epervière de Bauhin,nld:Hongaars havikskruid}
@@ -510,10 +511,6 @@ Plantae [kingdom]
         Inula conyzae [species] {VERN=nld:Donderkruid,deu:Dürrwurz,fra:Inule conyze,eng:Ploughman's Spikenard}
         Inula helenium [species] {VERN=deu:Echter Alant,eng:Elecampane,nld:Griekse alant,fra:Inule grande aunée}
         Inula salicina [species] {VERN=fra:Inule à feuilles de saule,eng:Irish Fleabane,deu:Weiden-Alant,nld:Wilgalant}
-      Cyclachaena Fresen. [genus] {VERN=fra:Faux quinquina,eng:Iva,nld:Iva,deu:Schlagkraut}
-        =Iva L. [genus]
-        Cyclachaena xanthiifolia (Nutt.) Fresen. [species] {VERN=eng:Cocklebur-leaved Iva,fra:Faux quinquina,nld:Iva,deu:Spitzklettenblättriges Rispenkraut}
-          =Iva xanthiifolia [species]
       Jacobaea [genus] {VERN=nld:Kruiskruid}
         Jacobaea aquatica [species] {VERN=deu:Wasserkreuzkraut,nld:Waterkruiskruid}
           =Senecio aquaticus [species]
@@ -558,6 +555,11 @@ Plantae [kingdom]
       Picris [genus] {VERN=eng:Bristly Oxtongue,nld:Dubbelkelk,fra:Picris fausse-vipérine,deu:Wurmsalat}
         Picris echioides [species] {VERN=nld:Echt bitterkruid,deu:Habichtskrautähnliches Bitterkraut,eng:Hawkweed Oxtongue,fra:Picris fausse-épervière}
         Picris hieracioides [species] {VERN=deu:Pillenfarn,eng:Pillwort,fra:Pilulaire,nld:Pilvaren}
+      Pilosella Vaill. ex Hill [genus}
+        Pilosella lactucella (Wallr.) P.D.Sell & C.West [species] {VERN=eng:Eared Hawkweed,fra:Epervière petite-laitue,nld:Spits havikskruid,deu:Ährchenhabichtskraut}
+          =Hieracium lactucella [species]
+        Pilosella peleteriana (Mérat) F.W.Schultz & Sch.Bip. [species] {VERN=fra:Epervière de Lepeletier,eng:Peletier's Hawkweed,deu:Peletiers Habichtskraut,nld:Vals muizenoor}
+          =Hieracium peleterianum [species]
       Pulicaria [genus] {VERN=eng:Fleabane,deu:Flohkraut,fra:Pulicaire,nld:Vlooienkruid}
         Pulicaria dysenterica [species] {VERN=eng:Common Fleabane,nld:Heelblaadjes,fra:Pulicaire dysentérique,deu:Ruhrwurz}
         Pulicaria vulgaris [species] {VERN=deu:Grosses Flohkraut,nld:Klein vlooienkruid}
@@ -1036,15 +1038,15 @@ Plantae [kingdom]
         Petrorhagia prolifera [species] {VERN=nld:Kleine mantelanjer}
         Petrorhagia saxifraga [species] {VERN=eng:Parsley,fra:Persil,nld:Peterselie,deu:Petersilie}
       Sagina [genus] {VERN=deu:Mastkraut,eng:Pearlwort,fra:Sagine,nld:Vetmuur}
-        Sagina apetala [species] {VERN=eng:Annual Pearlwort,nld:Donkere vetmuur,deu:Kronenloses Mastkraut,fra:Sagine apétale}
+        Sagina alexandrae Iamonico [species] {VERN=eng:Heath Pearlwort,deu:Pfriemenblättriges Mastkraut,nld:Priemvetmuur,fra:Sagine subulée}
+          =Sagina subulata (Sw.) E.H.L.Krause [species]
+       Sagina apetala [species] {VERN=eng:Annual Pearlwort,nld:Donkere vetmuur,deu:Kronenloses Mastkraut,fra:Sagine apétale}
           =Sagina apetala apetala [subspecies]
         Sagina maritima [species] {VERN=fra:Sagine maritime,eng:Sea Pearlwort,deu:Strand-Mastkraut,nld:Zeevetmuur}
         Sagina micropetala [species] {VERN=nld:Uitstaande vetmuur}
           =Sagina apetala erecta [subspecies]
         Sagina nodosa [species] {VERN=deu:Knotiges Mastkraut,eng:Knotted Pearlwort,fra:Sagine noueuse,nld:Sierlijke vetmuur}
         Sagina procumbens [species] {VERN=nld:Liggende vetmuur,deu:Niederliegendes Mastkraut,eng:Procumbent Pearlwort,fra:Sagine rampante}
-        Sagina alexandrae Iamonico [species] {VERN=eng:Heath Pearlwort,deu:Pfriemenblättriges Mastkraut,nld:Priemvetmuur,fra:Sagine subulée}
-          =Sagina subulata (Sw.) E.H.L.Krause [species]
       Saponaria [genus] {VERN=fra:Saponaire,deu:Seifenkraut,eng:Soapwort,nld:Zeepkruid}
         Saponaria ocymoides [species] {VERN=nld:Muurzeepkruid}
         Saponaria officinalis [species] {VERN=deu:Gebräuchliches Seifenkraut,fra:Saponaire officinale,eng:Soapwort,nld:Zeepkruid}
@@ -1090,6 +1092,8 @@ Plantae [kingdom]
           Spergula arvensis var. maxima [variety] {VERN=nld:Gewone spurrie var. maxima}
         Spergula morisonii [species] {VERN=deu:Frühlings-Spark,nld:Heidespurrie,eng:Pearlwort Spurrey,fra:Spargoute printanière}
       Stellaria [genus] {VERN=deu:Miere,nld:Muur,fra:Stellaire,eng:Stitchwort / Chickweed}
+        Stellaria alsine Grimm [species] {VERN=eng:Bog Stitchwort,nld:Moerasmuur,deu:Quell-Sternmiere,fra:Stellaire aquatique}
+          =Stellaria uliginosa Murray [species]
         Stellaria aquatica [species] {VERN=fra:Céraiste aquatique,deu:Wassermiere,eng:Water Chickweed,nld:Watermuur}
         Stellaria graminea [species] {VERN=deu:Grasblättrige Sternmiere,nld:Grasmuur,eng:Lesser Stitchwort,fra:Stellaire graminée}
         Stellaria holostea [species] {VERN=eng:Greater Stitchwort,deu:Grossblumige Miere,nld:Grote muur,fra:Stellaire holostée}
@@ -1103,8 +1107,6 @@ Plantae [kingdom]
         Stellaria pallida [species] {VERN=deu:Bleiche Miere,nld:Duinvogelmuur,eng:Lesser Chickweed,fra:Mouron sans pétales}
           =Stellaria media pallida [subspecies]
         Stellaria palustris [species] {VERN=eng:Marsh Stitchwort,fra:Stellaire glauque,deu:Sumpf-Sternmiere,nld:Zeegroene muur}
-        Stellaria alsine Grimm [species] {VERN=eng:Bog Stitchwort,nld:Moerasmuur,deu:Quell-Sternmiere,fra:Stellaire aquatique}
-          =Stellaria uliginosa Murray [species]
       Vaccaria [genus] {VERN=eng:Cow Basil,nld:Koekruid,deu:Kuhkraut,fra:Saponaire des vaches}
         Vaccaria hispanica [species] {VERN=eng:Cowherb,nld:Koekruid,deu:Saat-Kuhkraut,fra:Saponaire des vaches}
           =Vaccaria pyramidata [species]
@@ -2354,9 +2356,9 @@ Plantae [kingdom]
         Sesamum indicum [species] {VERN=nld:Sesamzaad}
     Phytolaccaceae [family] {VERN=fra:Epicéa,deu:Fichte,nld:Spar,eng:Spruce}
       Phytolacca [genus] {VERN=deu:Kermesbeere,fra:Phytolaque à huit étamines,eng:Virginian Pokeweed,nld:Westerse karmozijnbes}
-        Phytolacca americana [species] {VERN=deu:Chinesische Kermesbeere,nld:Oosterse karmozijnbes,fra:Phytolaque à dix étamines}
         Phytolacca acinosa Roxb. [species] {VERN=nld:Karmozijnbesfamilie}
           =Phytolacca esculenta L. [species]
+        Phytolacca americana [species] {VERN=deu:Chinesische Kermesbeere,nld:Oosterse karmozijnbes,fra:Phytolaque à dix étamines}
     Pinaceae [family] {VERN=eng:Butterwort,deu:Fettkraut,fra:Grassette,nld:Vetblad}
       Abies [genus] {VERN=eng:Fir,fra:Sapin,deu:Tanne,nld:Zilverspar}
         Abies alba [species] {VERN=nld:Gewone zilverspar,fra:Sapin pectiné,eng:Silver Fir,deu:Tanne}
@@ -3463,6 +3465,10 @@ Plantae [kingdom]
       Ailanthus [genus] {VERN=fra:Ailante,deu:Götterbaum,nld:Hemelboom,eng:Tree-of-heaven}
         Ailanthus altissima [species] {VERN=fra:Ailante glanduleux,deu:Götterbaum,nld:Hemelboom,eng:Tree-of-heaven}
     Solanaceae [family] {VERN=nld:Nachtschadefamilie}
+      Alkekengi [genus] {VERN=eng:Cape Gooseberry,fra:Coqueret,nld:Echte lampionplant,deu:Judenkirsche}
+        =Physalis [genus]
+        Alkekengi officinarum Moench [species] {VERN=deu:Blasenspierstrauch,eng:Nine bark,fra:Physocarpe,nld:Sneeuwbalspirea}
+          =Physalis alkekengi [species] 
       Atropa [genus] {VERN=fra:Belladone,eng:Deadly Nightshade,deu:Tollkirsche,nld:Wolfskers}
         Atropa bella-donna [species] {VERN=fra:Belladone,eng:Deadly Nightshade,deu:Tollkirsche,nld:Wolfskers}
       Capsicum [genus] {VERN=deu:Paprika,fra:Poivron,nld:Spaanse peper,eng:Sweet pepper}
@@ -3479,10 +3485,6 @@ Plantae [kingdom]
         Nicotiana alata [species] {VERN=deu:Bauern-Tabak,nld:Boerentabak,eng:Small Tobacco,fra:Tabac des paysans}
         Nicotiana rustica [species] {VERN=eng:Large Tobacco,fra:Tabac,nld:Tabak,deu:Virginischer Tabak}
         Nicotiana tabacum [species] {VERN=eng:Fennel-flower,nld:Nigelle,fra:Nigelle,deu:Schwarzkümmel}
-      Alkekengi [genus] {VERN=eng:Cape Gooseberry,fra:Coqueret,nld:Echte lampionplant,deu:Judenkirsche}
-        =Physalis [genus]
-        Alkekengi officinarum Moench [species] {VERN=deu:Blasenspierstrauch,eng:Nine bark,fra:Physocarpe,nld:Sneeuwbalspirea}
-          =Physalis alkekengi [species] 
       Solanum [genus] {VERN=fra:Morelle,nld:Nachtschade,deu:Nachtschatten,eng:Nightshade}
         Solanum dulcamara [species] {VERN=eng:Bittersweet / Woody Nightshade,deu:Bittersüss,nld:Bitterzoet,fra:Morelle douce-amère}
         Solanum lycopersicum [species] {VERN=nld:Tomaat,deu:Tomate,fra:Tomate,eng:Tomato}
