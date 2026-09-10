@@ -1040,7 +1040,7 @@ Plantae [kingdom]
       Sagina [genus] {VERN=deu:Mastkraut,eng:Pearlwort,fra:Sagine,nld:Vetmuur}
         Sagina alexandrae Iamonico [species] {VERN=eng:Heath Pearlwort,deu:Pfriemenblättriges Mastkraut,nld:Priemvetmuur,fra:Sagine subulée}
           =Sagina subulata (Sw.) E.H.L.Krause [species]
-       Sagina apetala [species] {VERN=eng:Annual Pearlwort,nld:Donkere vetmuur,deu:Kronenloses Mastkraut,fra:Sagine apétale}
+        Sagina apetala [species] {VERN=eng:Annual Pearlwort,nld:Donkere vetmuur,deu:Kronenloses Mastkraut,fra:Sagine apétale}
           =Sagina apetala apetala [subspecies]
         Sagina maritima [species] {VERN=fra:Sagine maritime,eng:Sea Pearlwort,deu:Strand-Mastkraut,nld:Zeevetmuur}
         Sagina micropetala [species] {VERN=nld:Uitstaande vetmuur}
