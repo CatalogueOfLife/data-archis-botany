@@ -3246,7 +3246,7 @@ Plantae [kingdom]
         Galium verum [species] {VERN=fra:Gaillet jaune,nld:Geel walstro,deu:Gelbes Labkraut,eng:Lady's Bedstraw}
         Galium × pomeranicum [species] {VERN=nld:Geelwit walstro}
         Hydrogalium palustre (L.) Kadereit & Schneew. [species] {VERN=eng:Common Marsh-bedstraw,fra:Gaillet des marais,nld:Moeraswalstro,deu:Sumpf-Labkraut}
-           =Galium palustre L. [species] 
+          =Galium palustre L. [species] 
       Rubia [genus] {VERN=deu:Färberröte,fra:Garance,nld:Meekrap,eng:Wild Madder}
         Rubia tinctorum [species] {VERN=eng:Dyer's Madder,deu:Färber-Röte,fra:Garance,nld:Meekrap}
       Sherardia L. [genus] {VERN=deu:Ackerröte,nld:Blauw walstro,eng:Field Madder,fra:Shérardie}
