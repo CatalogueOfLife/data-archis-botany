@@ -542,8 +542,8 @@ Plantae [kingdom]
           =Chrysanthemum leucanthemum [species]
       Matricaria [genus] {VERN=nld:Kamille,eng:Camomile,deu:Kamille,fra:Matricaire}
         Matricaria chamomilla [species] {VERN=nld:Echte kamille,deu:Echte Kamille}
-          =Matricaria matricarioides [species]
         Matricaria discoidea [species] {VERN=nld:Schijfkamille,eng:Pineapple Weed,deu:Strahlenlose Kamille,fra:Matricaire disco´de}
+          =Matricaria matricarioides [species]
       Mycelis [genus] {VERN=nld:Muursla,eng:Wall Lettuce,deu:Mauerlattich,fra:Laitue des murailles}
         Mycelis muralis [species] {VERN=nld:Muursla,eng:Wall Lettuce,deu:Mauerlattich,fra:Laitue des murailles}
       Onopordum [genus] {VERN=nld:Wegdistel,eng:Cotton Thistle,deu:Eselsdistel,fra:Onoporde}
@@ -1047,6 +1047,7 @@ Plantae [kingdom]
       Petrorhagia [genus] {VERN=nld:Slanke mantelanjer,eng:Proliferous Pink,deu:Felsennelke,fra:Oeillet prolifère}
         Petrorhagia prolifera [species] {VERN=nld:Slanke mantelanjer,eng:Proliferous Pink,deu:Spossende Felsennelke,fra:Oeillet prolifère}
           =Tunica prolifera [species]
+          =Kohlrauschia prolifera [species]
         Petrorhagia saxifraga [species] {VERN=nld:Kleine mantelanjer}
       Sagina [genus] {VERN=deu:Mastkraut,eng:Pearlwort,fra:Sagine,nld:Vetmuur}
         Sagina alexandrae Iamonico [species] {VERN=eng:Heath Pearlwort,deu:Pfriemenblättriges Mastkraut,nld:Priemvetmuur,fra:Sagine subulée}
@@ -1400,8 +1401,8 @@ Plantae [kingdom]
         Polystichum aculeatum [species] {VERN=nld:Stijve naaldvaren,eng:Hard Shield-fern,deu:Gelappter Schildfarn,fra:Polystic à aiguillons}
           =Polystichum setiferum morph aculeatum [morph] {CODE=ZOOLOGICAL}
         Polystichum lonchitis [species] {VERN=nld:Lansvaren,eng:Holly Fern,deu:Lanzenfarn,fra:Polystic lonchite}
-          =Polystichum aculeatum angulare [subspecies]
         Polystichum setiferum [species] {VERN=nld:Zachte naaldvaren,eng:Soft Shield-fern,deu:Borstiger Schildfarn,fra:Polystic à soies}
+          =Polystichum aculeatum subsp. angulare [subspecies]
     Elaeagnaceae [family] {VERN=nld:Duindoornfamilie}
       Elaeagnus [genus] {VERN=fra:Chalef,eng:Oleaster,nld:Olijfwilg,deu:Ölweide}
         Elaeagnus angustifolia [species] {VERN=fra:Chalef à feuilles étroites,eng:Oleaster,deu:Schmallblättrige älweide,nld:Smalle olijfwilg}
@@ -1560,8 +1561,8 @@ Plantae [kingdom]
         Medicago falcata [species] {VERN=nld:Sikkelklaver,eng:Sickle Medick,deu:Sichelklee,fra:Luzerne sauvage}
         Medicago lupulina [species] {VERN=nld:Hopklaver,deu:Luzerne}
         Medicago minima [species] {VERN=nld:Kleine rupsklaver,eng:Bur Medick,deu:Zwerg-Schneckenklee,fra:Luzerne naine}
-          =Medicago nigra [species]
         Medicago polymorpha [species] {VERN=nld:Ruige rupsklaver,eng:Toothed Medick,deu:Rauer Schneckenklee,fra:Luzerne polymorphe}
+          =Medicago nigra [species]
         Medicago sativa [species] {VERN=nld:Luzerne,eng:Lucerne,deu:Luzerne,fra:Luzerne}
         Medicago × varia [species] {VERN=nld:Bonte luzerne,deu:Bastardluzerne}
       Melilotus [genus] {VERN=nld:Honingklaver,eng:Melilot,deu:Honigklee,fra:Mélilot}
@@ -1895,11 +1896,11 @@ Plantae [kingdom]
         Mentha spicata [species] {VERN=nld:Aarmunt,eng:Spear Mint,deu:Grüne Minze,fra:Menthe verte}
         Mentha suaveolens [species] {VERN=nld:Witte munt,eng:Round-leaved Mint,deu:Rundblättrige Minze,fra:Menthe à feuilles rondes}
         Mentha × dumetorum [species] {VERN=nld:Oevermunt}
-          =Mentha × gentilis [species]
         Mentha × gracilis Sole [species] {VERN=nld:Edelmunt,eng:Bushy Mint}
+          =Mentha × gentilis [species]
         Mentha × piperita [species] {VERN=nld:Pepermunt,eng:Peppermint,fra:Menthe poivrée}
-          =Mentha × niliaca [species]
         Mentha × rotundifolia [species] {VERN=nld:Wollige munt}
+          =Mentha × niliaca [species]
         Mentha × verticillata [species] {VERN=nld:Kransmunt,eng:Whorled Mint}
       Nepeta [genus] {VERN=nld:Kattenkruid,eng:Cat-mint,deu:Katzenminze,fra:Herbe aux chats}
         Nepeta cataria [species] {VERN=nld:Wild kattenkruid,eng:Cat-mint,deu:Echte Katzenminze,fra:Herbe aux chats}
@@ -2122,7 +2123,6 @@ Plantae [kingdom]
         Malva alcea [species] {VERN=nld:Vijfdelig kaasjeskruid,eng:European Mallow,deu:Sigmarswurz,fra:Mauve alcée}
         Malva moschata [species] {VERN=nld:Muskuskaasjeskruid,eng:Musk Mallow,deu:Moschusmalve,fra:Mauve musquée}
         Malva neglecta [species] {VERN=nld:Klein kaasjeskruid,eng:Dwarf Mallow,deu:Käslikraut,fra:Mauve à feuilles rondes}
-          =Malva neglecta pusilla [infraspecific_name]
         Malva parviflora [species] {VERN=nld:Klein Rond kaasjeskruid}
         Malva pusilla [species] {VERN=nld:Rond kaasjeskruid,eng:Mallow,deu:Kleine Malve,fra:Mauve à petites feuilles}
         Malva setigera K.F.Schimp. & Spenn. [species] {VERN=fra:Guimauve hérissée,deu:Rauhhaariger Eibisch,eng:Rough Marsh-mallow,nld:Ruige heemst}
@@ -2151,6 +2151,7 @@ Plantae [kingdom]
       Morella [genus]
         Morella caroliniensis [species] {VERN=nld:Wasgagel}
           =Myrica caroliniensis [species]
+          =Myrica pensylvanica Lois [species]
       Morus [genus] {VERN=nld:Moerbei,eng:Mulberry,deu:Maulbeerbaum,fra:Mûrier}
         Morus nigra [species] {VERN=nld:Zwarte moerbei,eng:Black Mulberry,deu:Schwarzer Maulbeerbaum,fra:Mûrier noir}
     Myricaceae [family] {VERN=nld:Gagelfamilie}
@@ -2307,8 +2308,8 @@ Plantae [kingdom]
     Orobanchaceae [family] {VERN=nld:Bremraapfamilie}
       Orobanche [genus] {VERN=nld:Bremraap,eng:Broomrape,deu:Sommerwurz,fra:Orobanche}
         Orobanche caryophyllacea [species] {VERN=nld:Walstrobremraap,eng:Bedstraw Broomrape,deu:Labkraut-Sommerwurz,fra:Orobanche du gaillet}
-          =Orobanche major Pollich [species]
         Orobanche elatior [species] {VERN=nld:Centauriebremraap,deu:Große Sommerwurz}
+          =Orobanche major Pollich [species]
         Orobanche hederae [species] {VERN=nld:Klimopbremraap,eng:Ivy Broomrape,deu:Efeu-Sommerwurz,fra:Orobanche du lierre}
         Orobanche lutea [species] {VERN=nld:Rode bremraap,eng:Yellow Broomrape,deu:Gelbe Sommerwurz,fra:Orobanche rouge}
         Orobanche minor [species] {VERN=nld:Klavervreter,eng:Common Broomrape,deu:Kleewürger,fra:Orobanche du trèfle}
@@ -2429,15 +2430,15 @@ Plantae [kingdom]
         Plantago coronopus [species] {VERN=nld:Hertshoornweegbree,eng:Buck's-horn Plantain,deu:Krähenfuss-Wegerich,fra:Plantain corne de cerf}
         Plantago lanceolata [species] {VERN=nld:Smalle weegbree,eng:Ribwort Plantain,deu:Spitz-Wegerich,fra:Plantain lacéolé}
         Plantago major [species] {VERN=nld:Grote weegbree,eng:Greater Plantain,deu:Breit-Wegerich,fra:Plantain à larges feuilles}
-          =Plantago major pleiosperma [subspecies]
           Plantago major subsp. intermedia [subspecies] {CODE=BOTANICAL VERN=nld:Getande weegbree}
+            =Plantago major pleiosperma [subspecies]
           Plantago major subsp. major [subspecies] {CODE=BOTANICAL VERN=nld:Grote weegbree s.s.,deu:Großer Wegerich}
         Plantago maritima [species] {VERN=nld:Zeeweegbree,eng:Sea Plantain,deu:Strand-Wegerich,fra:Plantain maritime}
         Plantago media [species] {VERN=nld:Ruige weegbree,eng:Hoary Plantain,deu:Mittlerer Wegerich,fra:Plantain moyen}
     Platanaceae [family] {VERN=nld:Plataanfamilie}
       Platanus [genus] {VERN=nld:Plataan,eng:Plane,deu:Platane,fra:Platane}
-        =Platanus × hybrida [species]
         Platanus hispanica [species] {VERN=nld:Plataan,eng:London Plane,deu:Ahornblättrige Platane,fra:Platane à feuilles d'érable}
+          =Platanus × hybrida [species]
         Platanus orientalis [species] {VERN=nld:Oosterse plataan}
     Plumbaginaceae [family] {VERN=nld:Strandkruidfamilie}
       Armeria Willd. [genus] {VERN=fra:Armérie,nld:Engels gras,deu:Grasnelke,eng:Thrift}
@@ -2670,8 +2671,8 @@ Plantae [kingdom]
         Mibora minima [species] {VERN=nld:Dwerggras,eng:Early Sand-grass,deu:Kleines Zwerggras,fra:Mibora}
       Milium [genus] {VERN=nld:Gierstgras,eng:Millet,deu:Flattergras,fra:Millet}
         Milium effusum L. [species] {VERN=nld:Bosgierstgras,eng:Wood Millet,deu:Waldhirse,fra:Millet étalé}
-          =Milium scabrum Rich. [species]
         Milium vernale [species] {VERN=nld:Ruw gierstgras,eng:Early Millet,deu:Rauches Flattergras,fra:Millet scabre}
+          =Milium scabrum Rich. [species]
       Molinia [genus] {VERN=nld:Pijpenstrootje,eng:Purple Moor-grass,deu:Pfeifengras,fra:Molinie}
         Molinia caerulea [species] {VERN=nld:Pijpenstrootje,eng:Purple Moor-grass,deu:Pfeifengras,fra:Molinie}
       Nardus [genus] {VERN=nld:Borstelgras,eng:Mat-grass,deu:Borstgras,fra:Nard}
@@ -2691,9 +2692,9 @@ Plantae [kingdom]
       Phleum [genus] {VERN=nld:Doddegras,eng:Cat's-tail / Timothy,deu:Lieschgras,fra:Fléole}
         Phleum arenarium [species] {VERN=nld:Zanddoddegras,eng:Sand Cat's-tail,deu:Sand-Lieschgras,fra:Fléole des sables}
         Phleum pratense [species] {VERN=nld:Timoteegras,eng:Cat's-tail,deu:Wiesen-Lieschgras,fra:Fléole des prés Fléole noueuse}
-          =Phleum pratense pratense [subspecies] {VERN=nld:Timoteegras s.s.,eng:Timothy,fra:Fléole des prés}
           Phleum pratense subsp. pratense [subspecies] {CODE=BOTANICAL VERN=nld:Timoteegras s.s.,eng:Timothy,fra:Fléole des prés}
           Phleum pratense subsp. serotinum [subspecies] {CODE=BOTANICAL VERN=nld:Klein timoteegras,eng:Cat's-tail,fra:Fléole noueuse}
+            =Phleum pratense subsp. betrolonii [subspecies]
       Phragmites [genus] {VERN=nld:Riet,eng:Reed,deu:Schilfrohr,fra:Roseau}
         Phragmites australis [species] {VERN=nld:Riet,eng:Common Reed,deu:Schilf,fra:Roseau}
       Poa [genus] {VERN=nld:Beemdgras,eng:Meadow-grass,deu:Rispengras,fra:Pâturin}
@@ -2713,8 +2714,8 @@ Plantae [kingdom]
         Polypogon monspeliensis [species] {VERN=nld:Baardgras,eng:Annual Beardgrass,deu:Bürstengras,fra:Polypogon de Montpellier}
         Polypogon viridis [species] {VERN=nld:Kransgras}
       Pseudosasa [genus] {VERN=nld:Japanse bamboe,eng:Metake Bamboo,deu:Ludolphsrohr,fra:Bambou metake}
-        =Arundinaria japonica  Siebold & Zucc. ex Steud. [species]
         Pseudosasa japonica [species] {VERN=nld:Japanse bamboe,eng:Douglas Fir,deu:Douglasie,fra:Sapin de Douglas}
+          =Arundinaria japonica Siebold & Zucc. ex Steud. [species]
       Puccinellia [genus] {VERN=fra:Atropis,nld:Kweldergras,eng:Saltmarsh-grass,deu:Salzschwaden}
         Puccinellia distans [species] {VERN=fra:Atropis distant,eng:Reflexed Saltmarsh-grass,deu:Salzgras,nld:Stomp kweldergras}
           Puccinellia distans subsp. borealis [subspecies] {CODE=BOTANICAL VERN=fra:Atropis pâle,nld:Bleek kweldergras,eng:Northern Saltmarsh-grass}
@@ -2803,13 +2804,13 @@ Plantae [kingdom]
           =Polygonum hydropiper [species]
         Persicaria lapathifolia [species] {VERN=nld:Beklierde duizendknoop,eng:Pale Persicaria,deu:Ampferkn"terich,fra:Renouée à feuilles de patience}
           Persicaria lapathifolia subsp. brittingeri [subspecies] {CODE=BOTANICAL VERN=nld:Beklierde duizendknoop subsp. brittingeri}
-            =Polygonum lapathifolium brittingeri [subspecies]
+            =Polygonum lapathifolium subsp. brittingeri [subspecies]
           Persicaria lapathifolia subsp. lapathifolium [subspecies] {CODE=BOTANICAL VERN=nld:Beklierde duizendknoop subsp. lapathifolia}
-            =Polygonum lapathifolium lapathifolium [subspecies]
+            =Polygonum lapathifolium subsp. lapathifolium [subspecies]
           Persicaria lapathifolia subsp. mesomorphum [subspecies] {CODE=BOTANICAL VERN=nld:Beklierde duizendknoop subsp. Mesomorphum}
-            =Polygonum lapathifolium mesomorphum [subspecies]
+            =Polygonum lapathifolium subsp. mesomorphum [subspecies]
           Persicaria lapathifolia subsp. pallidum [subspecies] {CODE=BOTANICAL VERN=nld:Beklierde duizendknoop subsp. pallidum}
-            =Polygonum lapathifolium pallidum [subspecies]
+            =Polygonum lapathifolium subsp. pallidum [subspecies]
         Persicaria maculosa [species] {VERN=nld:Perzikkruid,eng:Persicaria / Red Shank,deu:Pfirsichkn"terich,fra:Renouée persicaire}
           =Polygonum persicaria [unranked]
         Persicaria minor [species] {VERN=nld:Kleine duizendknoop,eng:Small Water-pepper,deu:Kleiner Kn"terich,fra:Petite renouée}
@@ -2817,11 +2818,11 @@ Plantae [kingdom]
         Persicaria mitis [species] {VERN=nld:Zachte duizendknoop,eng:Tasteless Water-pepper,deu:Milder Kn"terich,fra:Renouée douce}
           =Polygonum mitis [species]
         Persicaria pensylvanica [species] {VERN=nld:Amerikaans perzikkruid}
-          =Polygonum polystachyum [species]
         Persicaria wallichii [species] {VERN=nld:Afghaanse duizendknoop,eng:Himalayan Knotweed,deu:Vielähriger Knöterich,fra:Renouée à nombreux épis}
+          =Polygonum polystachyum [species]
       Polygonum [genus] {VERN=nld:Varkensgras,eng:Knotgrass,deu:Knöterich,fra:Renouée}
         Polygonum aviculare [species] {VERN=nld:Gewoon varkensgras,eng:Knotgrass,deu:Verschiedenblättriger Vogelknöterich,fra:Trainasse}
-        Polygonum maritimum [species] {VERN=nld:Gewoon varkensgras Zwaluwtong}
+        Polygonum maritimum [species] {VERN=nld:Strandvarkensgras,eng:Sea Knotgrass}
           =Polygonum oxyspermum subsp. raii [subspecies] {CODE=BOTANICAL}
         Polygonum oxyspermum [species] {VERN=nld:Zandvarkensgras,deu:Sand-Knöterich}
         Polygonum viviparum [species] {VERN=nld:Knolduizendknoop}
@@ -2870,8 +2871,8 @@ Plantae [kingdom]
         Claytonia perfoliata [species] {VERN=fra:Claytonie perfoliée,deu:Kragen-Portulak,eng:Spring Beauty,nld:Winterpostelein}
         Claytonia sibirica [species] {VERN=fra:Claytonie sibérienne,eng:Pink Purslane,nld:Roze winterpostelein,deu:Sibirisches Quellenkraut}
       Montia [genus] {VERN=nld:Bronkruid,eng:Blinks,deu:Quellkraut,fra:Montie}
-        =Montia fontana subsp. fontana [subspecies] {CODE=BOTANICAL}
         Montia fontana [species] {VERN=nld:Groot bronkruid,eng:Blinks,deu:Glattsamiges Quellkraut,fra:Montie des fontaines}
+          Montia fontana subsp. fontana [subspecies] {CODE=BOTANICAL}
         Montia minor [species] {VERN=nld:Bronkruid,eng:blinks,deu:Glattsamiges Quellkraut}
       Portulaca [genus] {VERN=nld:Postelein,eng:Purslane,deu:Portulak,fra:Pourpier}
         Portulaca oleracea [species] {VERN=nld:Postelein,eng:Common Purslane,deu:Portulak,fra:Pourpier}
@@ -2899,8 +2900,8 @@ Plantae [kingdom]
         Potamogeton perfoliatus [species] {VERN=nld:Doorgroeid fonteinkruid,eng:Perfoliate Pondweed,deu:Durchwachsenes Laichkraut,fra:Potamot à feuilles perfoliées}
         Potamogeton polygonifolius [species] {VERN=nld:Duizendknoopfonteinkruid,eng:Bog Pondweed,deu:Knöterichblättriges Laichkraut,fra:Potamot à feuilles de renouée}
         Potamogeton praelongus [species] {VERN=nld:Langstengelig fonteinkruid,eng:Long-stalked Pondweed,deu:Langblättriges Laichkraut,fra:Potamot à longs pédoncules}
-          =Potamogeton panormitanus [species]
         Potamogeton pusillus [species] {VERN=nld:Tenger fonteinkruid,eng:Lesser Pondweed,deu:Palermer Laichkraut,fra:Potamot fluet}
+          =Potamogeton panormitanus [species]
         Potamogeton trichoides [species] {VERN=nld:Haarfonteinkruid,eng:Hairlike Pondweed,deu:Haarförmiges Laichkraut,fra:Potamot à feuilles capillaires}
         Potamogeton vaginatus [species] {VERN=nld:Noordelijk schedefonteinkruid}
         Potamogeton × angustifolius [species] {VERN=nld:Gegolfd fonteinkruid,eng:pondweed}
@@ -3130,8 +3131,8 @@ Plantae [kingdom]
         Potentilla reptans [species] {VERN=nld:Vijfvingerkruid,eng:Creeping Cinquefoil,deu:Kriechendes Fingerkraut,fra:Potentille rampante}
         Potentilla sterilis [species] {VERN=nld:Aardbeiganzerik,eng:Barren Strawberry,deu:Erdbeer-Fingerkraut,fra:Potentille stérile}
         Potentilla supina [species] {VERN=nld:Liggende ganzerik,eng:Prostrate Cinquefoil,deu:Niederliegendes Fingerkraut,fra:Potentille couchée}
-          =Potentilla verna [species]
         Potentilla tabernaemontani [species] {VERN=nld:Voorjaarsganzerik,deu:Frühlings-Fingerkraut}
+          =Potentilla verna [species]
         Potentilla × suberecta [species] {VERN=nld:Kruipganzerik x Tormentil}
       Prunus [genus] {VERN=nld:Prunus,eng:Sloe / Plum / Cherry,deu:Pflaume / Kirsche / Aprikose usw.,fra:Prunier}
         Prunus americana [species] {VERN=nld:Ganzenpruim,eng:goose plum}
@@ -3272,8 +3273,8 @@ Plantae [kingdom]
         Populus tremula [species] {VERN=nld:Ratelpopulier,eng:Aspen,deu:Aspe,fra:Peuplier tremble}
         Populus trichocarpa [species] {VERN=nld:Zwarte balsempopulier}
         Populus × canadensis [species] {VERN=nld:Canadapopulier,eng:Hybrid Black Poplar,deu:Kanada-Pappel,fra:Peuplier du Canada}
-          =Populus canescens [species]
         Populus × canescens [species] {VERN=nld:Grauwe abeel,eng:Grey Polar,deu:Hybrid-Pappel,fra:Peuplier grisard}
+          =Populus canescens [species]
       Salix 'Sekka' [cultivar] {CODE=CULTIVARS VERN=nld:Bandwilg}
       Salix [genus] {VERN=fra:Saule,deu:Weide,nld:Wilg,eng:Willow}
         Salix alba [species] {VERN=fra:Saule blanc,nld:Schietwilg,deu:Silberweide,eng:White Willow}
@@ -3388,13 +3389,13 @@ Plantae [kingdom]
         Mimulus guttatus [species] {VERN=nld:Gele maskerbloem,eng:Monkey-flower,deu:Gauklerblume,fra:Mimule tachetée}
         Mimulus moschatus [species] {VERN=nld:Muskusplantje,eng:Musk,deu:Moschus-Gauklerblume,fra:Mimule musqué}
       Misopates [genus] {VERN=nld:Akkerleeuwenbek,eng:Lesser Snapdragon,deu:Feldlöwenmaul,fra:Muflier des champs}
-        =Antirrhinum orontium [species]
         Misopates orontium [species] {VERN=nld:Akkerleeuwenbek,eng:Lesser Snapdragon,deu:Feldlöwenmaul,fra:Muflier des champs}
+          =Antirrhinum orontium [species]
       Odontites [genus] {VERN=nld:Helmogentroost,eng:Bartsia,deu:Zahntrost,fra:Odontite}
         Odontites vernus [species] {VERN=nld:Rode ogentroost,eng:Red Bartsia,deu:Roter Zahntrost,fra:Odontite rouge}
           =Odontites verna [species]
-          =Odontites litoralis [species]
           Odontites vernus subsp. litoralis [subspecies] {CODE=BOTANICAL VERN=nld:Vroege ogentroost}
+            =Odontites litoralis [species]
           Odontites vernus subsp. serotinus [subspecies] {CODE=BOTANICAL VERN=nld:Late ogentroost,eng:Red Bartsia}
           Odontites vernus subsp. vernus [subspecies] {CODE=BOTANICAL VERN=nld:Akkerogentroost}
       Parentucellia [genus] {VERN=nld:Kleverige ogentroost,eng:Yellow Bartsia,deu:Gelbe Bartsie,fra:Eufragie visqueuse}
@@ -3513,8 +3514,8 @@ Plantae [kingdom]
       Oreopteris [genus] {VERN=nld:Stippelvaren,eng:Lemon-scented Fern,deu:Bergfarn,fra:Fougère des montagnes}
         Oreopteris limbosperma [species] {VERN=nld:Stippelvaren,eng:Lemon-scented Fern,deu:Bergfarn,fra:Fougère des montagnes}
       Phegopteris [genus] {VERN=nld:Smalle beukvaren,eng:Beech Fern,deu:Buchenfarn,fra:Phégoptéris}
-        =Thelypteris phegopteris [species]
         Phegopteris connectilis [species] {VERN=nld:Smalle beukvaren,eng:Beech Fern,deu:Buchenfarn,fra:Phégoptéris faux-polypode}
+          =Thelypteris phegopteris [species]
       Thelypteris Schmidel [genus] {VERN=fra:Fougère des marais,deu:Lappenfarn,eng:Marsh Fern,nld:Moerasvaren}
         Thelypteris palustris [species] {VERN=fra:Fougère des marais,eng:Marsh Fern,nld:Moerasvaren,deu:Sumpffarn}
     Thymelaeaceae [family] {VERN=nld:Peperboompjesfamilie}
