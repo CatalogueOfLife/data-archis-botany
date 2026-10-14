@@ -1185,7 +1185,7 @@ Plantae [kingdom]
         Petrosedum forsterianum (Sm.) Grulich [species] {VERN=nld:Bastaardhemelsleutel}
           =Sedum forsterianum Sm. [species]
         Petrosedum rupestre (L.) P.V.Heath [species] {VERN=fra:Orpin réfléchi,eng:Reflexed Stonecrop,nld:Tripmadam,deu:Tripmadam}
-          =Sedum reflexum [species]
+          =Sedum reflexum L. [species]
       Sedum 'Herbstfreude' [cultivar] {CODE=CULTIVARS VERN=eng:Biting Stonecrop,nld:Muurpeper,fra:Orpin âcre,deu:Scharfer Mauerpfeffer}
       Sedum [genus] {VERN=deu:Mauerpfeffer,fra:Orpin,eng:Stonecrop,nld:Vetkruid}
         Sedum acre [species] {VERN=fra:Orpin blanc,deu:Weisser Mauerpfeffer,eng:White Stonecrop,nld:Wit vetkruid}
@@ -1446,7 +1446,7 @@ Plantae [kingdom]
       Erica [genus] {VERN=fra:Bruyère,nld:Dophei,deu:Glockenheide,eng:Heather}
         Erica cinerea [species] {VERN=eng:Bell Heather,fra:Bruyère cendrée,deu:Grauheide,nld:Rode dophei}
         Erica carnea L.
-          =Erica herbacea [species] {VERN=fra:Bruyère couleur de chair,deu:Erika,nld:Sneeuwhei,eng:Spring Heather}
+          =Erica herbacea                 L. [species] {VERN=fra:Bruyère couleur de chair,deu:Erika,nld:Sneeuwhei,eng:Spring Heather}
         Erica scoparia [species] {VERN=deu:Besenheide,nld:Bezemdophei,fra:Bruyère à balai,eng:Green Heather}
         Erica tetralix [species] {VERN=fra:Bruyère quaternée,eng:Cross-leaved Heath,nld:Gewone dophei,deu:Glockenheide}
       Gaultheria [genus] {VERN=nld:Gaultheria,fra:Gaulthérie,deu:Scheinbeere,eng:Shallon}
@@ -2197,8 +2197,8 @@ Plantae [kingdom]
     Onagraceae [family] {VERN=nld:Teunisbloemfamilie}
       Chamaenerion [genus] {VERN=fra:Epilobe en épi,eng:Rosebay Willowherb,deu:Waldweidenröschen,nld:Wilgenroosje}
         =Chamerion [genus]
-        Chamaenerion angustifolium L. [species] {VERN=fra:Epilobe en épi,eng:Rosebay Willowherb,deu:Stauden-Feuerkraut,nld:Wilgenroosje}
-          =Chamerion angustifolium [species]
+        Chamaenerion angustifolium (L.) Scop. [species] {VERN=fra:Epilobe en épi,eng:Rosebay Willowherb,deu:Stauden-Feuerkraut,nld:Wilgenroosje}
+          =Chamerion angustifolium L. [species]
       Circaea [genus] {VERN=fra:Circée,eng:Enchanter's-nightshade,nld:Heksenkruid,deu:Hexenkraut}
         Circaea alpina [species] {VERN=deu:Alpen-Hexenkraut,nld:Alpenheksenkruid,eng:Alpine Enchanter's-nightshade,fra:Circée des Alpes}
         Circaea lutetiana [species] {VERN=fra:Circée de Paris,eng:Enchanter's-nightshade,deu:Gemeines Hexenkraut,nld:Groot heksenkruid}
@@ -2739,7 +2739,6 @@ Plantae [kingdom]
         Setaria faberi [species] {VERN=nld:Chinese naaldaar}
         Setaria italica [species] {VERN=eng:Green Bristle-grass,deu:Kolbenhirse,fra:Sétaire d'Italie,nld:Trosgierst}
         Setaria pumila [species] {VERN=nld:Geelrode naaldaar,deu:Graugrüne Borstenhirse,fra:Sétaire glauque,eng:Yellow Bristle-grass}
-          =Setaria glauca auct. non Kunth [species]
         Setaria verticillata [species] {VERN=nld:Kransnaaldaar,deu:Quirlige Borstenhirse,eng:Rough Bristol-grass,fra:Sétaire verticillée}
         Setaria viridis [species] {VERN=eng:Green Bristol-grass,nld:Groene naaldaar,deu:Grüne Borstenhirse,fra:Sétaire verte}
       Sorghum [genus] {VERN=eng:Millet,deu:Mohrenhirse,fra:Sorgho,nld:Sorgo}
