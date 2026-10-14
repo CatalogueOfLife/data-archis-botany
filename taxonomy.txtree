@@ -1589,7 +1589,6 @@ Plantae [kingdom]
         Phaseolus vulgaris [species] {VERN=nld:Boon,deu:Gartenbohne}
       Pisum [genus] {VERN=nld:Erwt,eng:Pea,deu:Erbse,fra:Pois}
         Pisum sativum [species] {VERN=nld:Erwt,eng:Garden / Field Pea,deu:Garten-Erbse,fra:Pois cultivé}
-          =Pisum sativum sativum [subspecies] {VERN=nld:Gekweekte erwt}
           Pisum sativum subsp. sativum [subspecies] {CODE=BOTANICAL VERN=nld:Gekweekte erwt}
       Robinia [genus] {VERN=eng:False Acacia,nld:Robinia,deu:Robinie,fra:Robinier}
         Robinia pseudoacacia [species] {VERN=eng:Locust Tree,nld:Robinia,deu:Robinie,fra:Robinier faux-acacia}
