@@ -785,7 +785,7 @@ Plantae [kingdom]
       Camelina [genus] {VERN=fra:Caméline,eng:Gold-of-pleasure,nld:Huttentut,deu:Leindotter}
         Camelina microcarpa [species] {VERN=nld:Kleinzadige huttentut}
           Camelina microcarpa subsp. microcarpa [subspecies]
-            =Camelina sativa subsp. microcarpa  (Andrz. ex DC.) Hartm. [subspecies] {CODE=BOTANICAL VERN=nld:Huttentut subsp. microcarpa}
+            =Camelina sativa subsp. microcarpa  (Andrz. ex DC.) Hartm. [subspecies] {VERN=nld:Huttentut subsp. microcarpa}
           Camelina microcarpa subsp. pilosa (DC.) Jáv. [subspecies] 
             =Camelina sativa subsp. pilosa [subspecies] {CODE=BOTANICAL VERN=nld:Huttentut subsp. pilosa}
         Camelina sativa [species] {VERN=fra:Caméline cultivée,eng:Gold-of-pleasure,nld:Huttentut,deu:Saat-Leindotter}
@@ -2915,8 +2915,8 @@ Plantae [kingdom]
       Stuckenia [genus] {VERN=nld:Stuckenia}
         Stuckenia filiformis (Pers.) Börner [species] {VERN=deu:Grasblättriges Laichkraut,nld:Ongelijkbladig fonteinkruid,fra:Potamot graminée,eng:Various-leaved Pondweed}
           =Potamogeton filiformis Pers. [species] {VERN=nld:Draadfonteinkruid}
-        Stuckenia pectinata (L.) Börner [species] {VERN=nld:Doorgroeid fonteinkruid,deu:Durchwachsenes Laichkraut,eng:Perfoliate Pondweed,fra:Potamot à feuilles perfoliées}
-          =Potamogeton pectinatus [species] {VERN=nld:Schedefonteinkruid,eng:Fennel-leaved Pondweed,deu:Kammf"rmiges Laichkraut,fra:Potamot à feuilles pectinées}
+        Stuckenia pectinata (L.) Börner [species] {VERN=nld:Schedefonteinkruid,eng:Fennel-leaved Pondweed,deu:Kammförmiges Laichkraut,fra:Potamot à feuilles pectinées}
+          =Potamogeton pectinatus L. [species] 
       Zannichellia [genus] {VERN=eng:Horned Pondweed,deu:Teichfaden,nld:Zannichellia,fra:Zannichellie}
         Zannichellia palustris [species] {VERN=eng:Horned Pondweed,deu:Teichfaden,nld:Zannichellia,fra:Zannichellie des marais}
           Zannichellia palustris subsp. major [subspecies] {CODE=BOTANICAL VERN=nld:Gesteelde zannichellia}
