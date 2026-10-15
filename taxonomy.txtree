@@ -1190,7 +1190,6 @@ Plantae [kingdom]
           =Sedum forsterianum Sm. [species]
         Petrosedum rupestre (L.) P.V.Heath [species] {VERN=fra:Orpin réfléchi,eng:Reflexed Stonecrop,nld:Tripmadam,deu:Tripmadam}
           =Sedum reflexum L. [species]
-      Sedum 'Herbstfreude' [cultivar] {CODE=CULTIVARS VERN=eng:Biting Stonecrop,nld:Muurpeper,fra:Orpin âcre,deu:Scharfer Mauerpfeffer}
       Sedum [genus] {VERN=deu:Mauerpfeffer,fra:Orpin,eng:Stonecrop,nld:Vetkruid}
         Sedum acre [species] {VERN=fra:Orpin blanc,deu:Weisser Mauerpfeffer,eng:White Stonecrop,nld:Wit vetkruid}
         Sedum album [species] {VERN=nld:Wit/Roze vetkruid}
@@ -1204,6 +1203,7 @@ Plantae [kingdom]
           Sedum telephium subsp. fabaria [subspecies] {VERN=nld:Gesteelde hemelsleutel}
           Sedum telephium subsp. maximum [subspecies] {VERN=nld:Bleke hemelsleutel}
           Sedum telephium subsp. telephium [subspecies] {VERN=nld:Gewone hemelsleutel}
+        Sedum 'Herbstfreude' [cultivar] {CODE=CULTIVARS VERN=eng:Biting Stonecrop,nld:Muurpeper,fra:Orpin âcre,deu:Scharfer Mauerpfeffer}
       Sempervivum [genus] {VERN=deu:Hauswurz,eng:House-leek,nld:Huislook,fra:Joubarbe}
         Sempervivum tectorum [species] {VERN=deu:Dach-Hauswurz,nld:Donderblad,eng:House-leek,fra:Joubarbe des toits}
     Cucurbitaceae [family] {VERN=nld:Komkommerfamilie}
@@ -3186,7 +3186,8 @@ Plantae [kingdom]
         Rosa canina [species] {VERN=nld:Hondsroos/Egelantier}
         Rosa gallica [species] {VERN=deu:Bereifte Rose,nld:Bergroos,eng:Red-leaved Rose,fra:Rosier glauque}
         Rosa glauca [species] {VERN=nld:Hollandse bottelroos}
-        Rosa 'Hollandica' [cultivar] {CODE=CULTIVARS VERN=nld:Bosroos,deu:Feld-Rose,eng:Field-rose,fra:Rosier des champs}
+        Rosa hollandica [species]
+          =Rosa 'Hollandica' [cultivar] {CODE=CULTIVARS VERN=nld:Bosroos,deu:Feld-Rose,eng:Field-rose,fra:Rosier des champs}
         Rosa majalis [species] {VERN=eng:Cinnamom Rose,nld:Kaneelroos,fra:Rosier cannette,deu:Zimt-Rose}
         Rosa multiflora [species] {VERN=deu:Büschel-Rose,eng:Many-flowered Rose,fra:Rosier à fleurs nombreuses,nld:Veelbloemige roos}
         Rosa rubiginosa [species] {VERN=nld:Egelantier,fra:Rosier rouillé,eng:Sweet-briar,deu:Wein-Rose}
@@ -3282,7 +3283,6 @@ Plantae [kingdom]
         Populus × canadensis [species] {VERN=nld:Canadapopulier,eng:Hybrid Black Poplar,deu:Kanada-Pappel,fra:Peuplier du Canada}
         Populus × canescens [species] {VERN=nld:Grauwe abeel,eng:Grey Polar,deu:Hybrid-Pappel,fra:Peuplier grisard}
           =Populus canescens [species]
-      Salix 'Sekka' [cultivar] {CODE=CULTIVARS VERN=nld:Bandwilg}
       Salix [genus] {VERN=fra:Saule,deu:Weide,nld:Wilg,eng:Willow}
         Salix alba [species] {VERN=fra:Saule blanc,nld:Schietwilg,deu:Silberweide,eng:White Willow}
         Salix aurita [species] {VERN=eng:Eared Sallow,nld:Geoorde wilg,deu:Ohrweide,fra:Saule à oreillettes}
@@ -3305,6 +3305,7 @@ Plantae [kingdom]
         Salix × rubra [species] {VERN=nld:Bittere wilg x Katwilg}
         Salix × smithiana Willd. [species] {VERN=nld:Boswilg x Katwilg,deu:Kübler Weiden,eng:Smith's Willow}
           =Salix × sericans Tausch ex A.Kern. [species]
+        Salix 'Sekka' [cultivar] {CODE=CULTIVARS VERN=nld:Bandwilg}
     Salviniaceae [family] {VERN=nld:Vlotvarenfamilie}
       =Azollaceae [unranked]
       Azolla [genus] {VERN=deu:Algenfarn,fra:Azolla,nld:Kroosvaren,eng:Water fern}
