@@ -3059,8 +3059,10 @@ Plantae [kingdom]
         Rhamnus cathartica [species] {VERN=deu:Gemeiner Kreuzdorn,fra:Nerprun purgatif,eng:Purging Buckthorn,nld:Wegedoorn}
           =Rhamnus catharticus [species]
         Rhamnus frangula [species] {VERN=eng:Alder Buckthorn,fra:Bourdaine,deu:Faulbaum,nld:Sporkehout}
-    Rosaceae-Pomoideae [family] {VERN=nld:Appel-subfamilie}
     Rosaceae [family] {VERN=nld:Rozenfamilie}
+      Amygdaloideae Arn. [subfamily]
+        =Maloideae [subfamily] {VERN=nld:Appel-subfamilie}
+        =Pomoideae [subfamily]
       Agrimonia [genus] {VERN=nld:Agrimonie,eng:Agrimony,fra:Aigremoine,deu:Odermennig}
         Agrimonia eupatoria [species] {VERN=eng:Agrimony,fra:Aigremoine eupatoire,nld:Gewone agrimonie,deu:Gewöhnlicher Odermennig}
         Agrimonia procera [species] {VERN=fra:Aigremoine odorante,eng:Fragrant Agrimony,nld:Welriekende agrimonie,deu:Wohlriechender Odermennig}
