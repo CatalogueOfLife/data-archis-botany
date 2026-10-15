@@ -1238,16 +1238,16 @@ Plantae [kingdom]
       Bolboschoenus [genus]
         Bolboschoenus maritimus [species] {VERN=deu:Gemeine Strandsimse,nld:Heen,fra:Scirpe maritime,eng:Sea Club-rush}
           =Scirpus maritimus [species]
-      Carex (Carex) [subgenus] {VERN=nld:Zegge subg. Carex}
-      Carex (Vignea) [subgenus] {VERN=nld:Zegge subg. Vignea}
-      Carex (bicarpellate) [genus] {VERN=nld:Tweekantige zegge}
-      Carex (tricarpellate) [genus] {VERN=nld:Driekantige zegge}
-      Carex sect. Acutae [section_botany] {VERN=nld:Scherpe zeggesectie}
-      Carex sect. Flavae [section_botany] {VERN=nld:Gele zeggesectie}
-      Carex sect. Hirtae [section_botany] {VERN=nld:Ruige zeggesectie}
-      Carex sect. Paniculatae [section_botany] {VERN=nld:Pluimzeggesectie}
-      Carex sect. Vulpinae [section_botany] {VERN=nld:Voszeggesectie}
       Carex [genus] {VERN=fra:Laîche,eng:Sedge,deu:Segge,nld:Zegge}
+        Carex (Carex) [subgenus] {VERN=nld:Zegge subg. Carex}
+        Carex (Vignea) [subgenus] {VERN=nld:Zegge subg. Vignea}
+        Carex (bicarpellate) [unranked] {VERN=nld:Tweekantige zegge}
+        Carex (tricarpellate) [unranked] {VERN=nld:Driekantige zegge}
+        Carex sect. Acutae [section_botany] {VERN=nld:Scherpe zeggesectie}
+        Carex sect. Flavae [section_botany] {VERN=nld:Gele zeggesectie}
+        Carex sect. Hirtae [section_botany] {VERN=nld:Ruige zeggesectie}
+        Carex sect. Paniculatae [section_botany] {VERN=nld:Pluimzeggesectie}
+        Carex sect. Vulpinae [section_botany] {VERN=nld:Voszeggesectie}
         Carex acuta [species] {VERN=fra:Laîche aiguè,nld:Scherpe zegge,deu:Schlanke Zegge,eng:Slender Tufted-sedge}
         Carex acutiformis [species] {VERN=fra:Laîche des marais,eng:Lesser Pond-sedge,nld:Moeraszegge,deu:Sumpfsegge}
         Carex appropinquata [species] {VERN=eng:Fibrous Tussock-sedge,fra:Laîche paradoxale,nld:Paardenhaarzegge,deu:Wundersegge}
@@ -1290,10 +1290,10 @@ Plantae [kingdom]
         Carex muricata [species] {VERN=nld:Dichte bermzegge,deu:Gedrängtährige Segge,eng:Large-fruited Prickly-sedge,fra:Laîche de Paira}
         Carex nigra [species] {VERN=deu:Braune Segge,eng:Common Sedge,fra:Laîche vulgaire,nld:Zwarte zegge}
         Carex oederi [species] {VERN=eng:Common & Small-fruited Yellow-sedge,nld:Geelgroene en dwergzegge,fra:Laîche tardive & vert jaunâtre,deu:Späte Gelb-Segge}
-          =Carex demissa/serotina [unranked]
           Carex oederi subsp. oederi [subspecies] {VERN=eng:Common Yellow-sedge,nld:Dwergzegge,fra:Laîche tardive,deu:Späte Gelbsegge}
             =Carex demissa [species]
           Carex oederi subsp. oedocarpa [subspecies] {VERN=nld:Geelgroene zegge,deu:Grüngelbe Segge,fra:Laîche vert jaunâtre,eng:Small-fruited Yellow-sedge}
+            =Carex serotina [species]
         Carex otrubae [species] {VERN=deu:Falsche Fuchs-Segge,eng:Flase Fox-sedge,fra:Laîche cuivrée,nld:Valse voszegge}
           =Carex cuprina [species]
         Carex pallescens [species] {VERN=deu:Bleiche Segge,nld:Bleke zegge,fra:Laîche pâle,eng:Pale Sedge}
