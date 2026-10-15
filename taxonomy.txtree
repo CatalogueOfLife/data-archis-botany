@@ -421,7 +421,6 @@ Plantae [kingdom]
         Cosmos bipinnatus [species] {VERN=nld:Cosmos,fra:Cosmos,deu:Fiederblättrige Cosmea,eng:Purple Mexican Aster}
       Cotula [genus] {VERN=eng:Buttonweed,fra:Cotule,nld:Goudknopje,deu:Laugenblume}
         Cotula coronopifolia [species] {VERN=eng:Buttonweed,fra:Cotule de l'Afrique du sud,nld:Goudknopje,deu:Krähenfuß-Laugenblume}
-      Crepis vesicaria subsp. taraxacifolia [subspecies] {VERN=fra:Barkhausie à feuilles de pissenlit,eng:Beaked Hawk's-beard,deu:Blasenpippau,nld:Paardenbloemstreepzaad}
       Crepis [genus] {VERN=fra:Crépis,eng:Hawk's-beard,deu:Pippau,nld:Streepzaad}
         Crepis biennis [species] {VERN=fra:Crépis des prés,nld:Groot streepzaad,eng:Rough Hawk's-beard,deu:Wiesenpippau}
         Crepis capillaris [species] {VERN=fra:Crépis à tige capillaire,nld:Klein streepzaad,deu:Kleinköpfiger Pippau,eng:Smooth Hawk's-beard}
@@ -429,6 +428,8 @@ Plantae [kingdom]
         Crepis paludosa [species] {VERN=fra:Crépis des marais,eng:Marsh Hawk's-beard,nld:Moerasstreepzaad,deu:Sumpfpippau}
         Crepis setosa [species] {VERN=fra:Barkhausie hérissée,nld:Borstelstreepzaad,deu:Borstiger Pippau,eng:Bristly Hawk's-beard}
         Crepis tectorum [species] {VERN=fra:Crépis des toits,deu:Dachpippau,eng:Hawk's-beard,nld:Smal streepzaad}
+        Crepis vesicaria L. [species]
+          Crepis vesicaria subsp. taraxacifolia [subspecies] {VERN=fra:Barkhausie à feuilles de pissenlit,eng:Beaked Hawk's-beard,deu:Blasenpippau,nld:Paardenbloemstreepzaad}
       Cyclachaena Fresen. [genus] {VERN=fra:Faux quinquina,eng:Iva,nld:Iva,deu:Schlagkraut}
         =Iva L. [genus]
         Cyclachaena xanthiifolia (Nutt.) Fresen. [species] {VERN=eng:Cocklebur-leaved Iva,fra:Faux quinquina,nld:Iva,deu:Spitzklettenblättriges Rispenkraut}
@@ -718,7 +719,9 @@ Plantae [kingdom]
       Myosotis L. [genus] {VERN=nld:Vergeet-mij-nietje,eng:Forget-me-not,deu:Vergissmeinnicht,fra:Myosotis}
         Myosotis arvensis [species] {VERN=nld:Akkervergeet-mij-nietje,eng:Field Forget-me-not,deu:Acker-Vergissmeinnicht,fra:Myosotis des champs}
         Myosotis discolor [species] {VERN=nld:Veelkleurig vergeet-mij-nietje,eng:Changing Forget-me-not,deu:Farbwechselndes Vergissmeinnicht,fra:Myosotis versicolor}
-        Myosotis laxa subsp. cespitosa [subspecies] {VERN=nld:Zompvergeet-mij-nietje,eng:Tuffed Forget-me-not,deu:Schlaffes Vergißmeinnicht,fra:Myosotis cespiteux}
+        Myosotis laxa Lehm. [species]
+          Myosotis laxa subsp. cespitosa [subspecies] {VERN=nld:Zompvergeet-mij-nietje,eng:Tuffed Forget-me-not,deu:Schlaffes Vergißmeinnicht,fra:Myosotis cespiteux}
+            =Myosotis cespitosa [species]
         Myosotis ramosissima [species] {VERN=nld:Ruw vergeet-mij-nietje,eng:Early Forget-me-not,deu:Hügel-Vergissmeinnicht,fra:Myosotis hérissé}
         Myosotis scorpioides [species] {VERN=nld:Moerasvergeet-mij-nietje,eng:Water Forget-me-not,deu:Sumpf-Vergißmeinnicht,fra:Myosotis des marais}
           Myosotis scorpioides subsp. nemorosa [subspecies] {VERN=nld:Weidevergeet-mij-nietje}
@@ -1085,6 +1088,8 @@ Plantae [kingdom]
         Silene flos-cuculi [species] {VERN=nld:Echte koekoeksbloem,deu:Kuckuckslichtnelke,eng:ragged robin}
           =Lychnis flos-cuculi [species]
         Silene gallica [species] {VERN=nld:Franse silene,deu:Französisches Leimkraut,fra:Silène de France,eng:Small-flowered Catchfly}
+        Silene latifolia Poir. [species]
+          Silene latifolia subsp. alba [subspecies] {VERN=nld:Avondkoekoeksbloem,deu:Weiße Lichtnelke}
         Silene noctiflora [species] {VERN=deu:Ackernelke,fra:Compagnon de nuit,nld:Nachtkoekoeksbloem,eng:Night-flowering Campion}
           =Melandrium noctiflorum [species]
         Silene nutans [species] {VERN=nld:Nachtsilene,deu:Nickendes Leimkraut,eng:Nottingham Catchfly,fra:Silène penché}
@@ -1093,7 +1098,6 @@ Plantae [kingdom]
           =Lychnis viscaria [species]
         Silene vulgaris [species] {VERN=nld:Blaassilene,deu:Gemeines Leimkraut,eng:bladder campion}
         Silene × hampeana [species] {VERN=nld:Dagkoekoeksbloem x Avondkoekoeksbloem}
-        Silene latifolia subsp. alba [subspecies] {VERN=nld:Avondkoekoeksbloem,deu:Weiße Lichtnelke}
       Spergularia [genus] {VERN=nld:Schijnspurrie,deu:Schuppenmiere,eng:Sea Spurrey,fra:Spergulaire}
         Spergularia media [species] {VERN=deu:Flügelsamige-Schuppenmiere,nld:Gerande schijnspurrie}
           =Spergularia maritima [species]
@@ -1373,10 +1377,10 @@ Plantae [kingdom]
       Trichophorum [genus]
         Trichophorum cespitosum [species] {VERN=eng:Deergrass,deu:Rasen-Simse,fra:Scirpe gazonnant,nld:Veenbies}
           =Scirpus cespitosus L. [species]
-        Trichophorum cespitosus subsp. cespitosus [subspecies] {VERN=nld:Veenbies subsp. cespitosus}
-          =Scirpus cespitosus cespitosus [subspecies]
-        Trichophorum cespitosus subsp. germanicus [subspecies] {VERN=nld:Veenbies subsp. germanicus}
-          =Scirpus cespitosus germanicus [subspecies]
+          Trichophorum cespitosum subsp. cespitosum [subspecies] {VERN=nld:Veenbies subsp. cespitosum}
+            =Scirpus cespitosus subsp. cespitosus [subspecies]
+          Trichophorum cespitosum subsp. germanicum [subspecies] {VERN=nld:Veenbies subsp. germanicum}
+            =Scirpus cespitosus subsp. germanicus [subspecies]
     Dennstaedtiaceae [family] {VERN=nld:Adelaarsvarenfamilie}
       =Hypolepidaceae [family]
       Pteridium Scop. [genus] {VERN=nld:Adelaarsvaren,deu:Adlerfarn,eng:Bracken,fra:Fougère-aigle}
@@ -1865,8 +1869,6 @@ Plantae [kingdom]
       Hyssopus [genus] {VERN=fra:Hysope,eng:Hyssop,nld:Hyssop,deu:Ysop}
         Hyssopus officinalis [species] {VERN=fra:Hysope,nld:Hyssop,eng:Hyssop,deu:Ysop}
       Lamiastrum [genus] {VERN=nld:Gele dovenetel}
-        Lamiastrum galeobdolon subsp. argentatum [subspecies] {VERN=nld:Bonte gele dovenetel}
-          =Lamiastrum galeobdolon [species]
         Lamiastrum luteum [species] {VERN=nld:Gele dovenetel,deu:Gold-Taubnessel}
           =Galeobdolon luteum [species]
           Lamiastrum luteum subsp. luteum [subspecies] {VERN=nld:Gele dovenetel subsp. luteum}
@@ -1874,7 +1876,11 @@ Plantae [kingdom]
       Lamium [genus] {VERN=eng:Dead-nettle,nld:Dovenetel,fra:Lamier,deu:Taubnessel}
         Lamium album [species] {VERN=fra:Lamier blanc,deu:Weisse Taubnessel,eng:White Dead-nettle,nld:Witte dovenetel}
         Lamium amplexicaule [species] {VERN=eng:Henbit Dead-nettle,nld:Hoenderbeet,fra:Lamier amplexicaule,deu:Stengelumfassende Taubnessel}
+        Lamium argentatum (Smejkal) Henker ex G.H.Loos [species]
+          =Lamiastrum galeobdolon subsp. argentatum [subspecies] {VERN=nld:Bonte gele dovenetel}
         Lamium confertum [species] {VERN=nld:Brede dovenetel,fra:Lamier du Nord,deu:Mittlere Taubnessel,eng:Northern Dead-nettle}
+        Lamium galeobdolon (L.) L. [species]
+          =Lamiastrum galeobdolon [species]
         Lamium hybridum [species] {VERN=nld:Ingesneden dovenetel,fra:Lamier découpé}
           =Lamium purpureum var. incisum (Willd.) Janch. [variety]
         Lamium maculatum [species] {VERN=deu:Gefleckte Taubnessel,nld:Gevlekte dovenetel,fra:Lamier maculé,eng:Spotted Dead-nettle}
@@ -3551,8 +3557,6 @@ Plantae [kingdom]
         Verbena bonariensis L. [species] {VERN=nld:Stijf ijzerhard}
         Verbena officinalis [species] {VERN=deu:Eisenkraut,nld:IJzerhard,eng:Vervain,fra:Verveine sauvage}
     Violaceae [family] {VERN=nld:Viooltjesfamilie}
-      Viola lutea subsp. calaminaria [subspecies] {VERN=deu:Galmei-Veilchen,nld:Zinkviooltje}
-        =Viola calaminaria [species]
       Viola [genus] {VERN=deu:Veilchen,eng:Violet / Pansy,fra:Violette,nld:Viooltje}
         Viola arvensis x tricolor [species] {VERN=nld:Akker- x Driekleurig viooltje}
           =Viola × comtempta [species]
@@ -3566,6 +3570,9 @@ Plantae [kingdom]
         Viola hirta x odorata [species] {VERN=nld:Ruig x Maarts viooltje}
           =Viola × scabra [species]
         Viola hirta [species] {VERN=eng:Hairy Violet,deu:Rauhhaariges Veilchen,nld:Ruig viooltje,fra:Violette hérissée}
+        Viola lutea  Huds. [species]
+          Viola lutea subsp. calaminaria [subspecies] {VERN=deu:Galmei-Veilchen,nld:Zinkviooltje}
+          =Viola calaminaria [species]
         Viola odorata [species] {VERN=nld:Maarts viooltje,eng:Sweet Violet,fra:Violette odorante,deu:Wohlriechendes Veilchen}
         Viola palustris [species] {VERN=eng:Marsh Violet,nld:Moerasviooltje,deu:Sumpf-Veilchen,fra:Violette des marais}
         Viola reichenbachiana x riviniana [species] {VERN=nld:Donkersporig x Bleeksporig bosviooltje}
