@@ -2629,11 +2629,6 @@ Plantae [kingdom]
         Holcus mollis [species] {VERN=eng:Creeping Soft-grass,nld:Gladde witbol,fra:Houlque molle,deu:Weiches Honiggras}
       Hordelymus [genus] {VERN=nld:Bosgerst,deu:Haargerste,fra:Orge de bois,eng:Wood Barley}
         Hordelymus europaeus [species] {VERN=nld:Bosgerst,deu:Haargerste,fra:Orge de bois,eng:Wood Barley}
-      Hordeum vulgare fo hexastichum [infraspecific_name] {VERN=deu:Sechszeilige Spelzgerste,nld:Zesrijige bedekte gerst,eng:six-row hulled barley}
-        =Hordeum vulgare vulgare fo.he [infraspecific_name]
-      Hordeum vulgare fo tetrastichum [infraspecific_name] {VERN=nld:Vierrijige,, bedekte gerst,deu:Vierzeilige Spelzgerste,eng:four-row hulled barley}
-        =Hordeum vulgare vulgare fo.te [infraspecific_name]
-      Hordeum vulgare vulgare fo.tetrastichum [infraspecific_name] {VERN=nld:Vierrijige bedekte gerst}
       Hordeum [genus] {VERN=eng:Barley,nld:Gerst,deu:Gerste,fra:Orge}
         Hordeum jubatum [species] {VERN=eng:Foxtail Barley,nld:Kwispelgerst,deu:Mähnengerste,fra:Orge barbue}
         Hordeum marinum [species] {VERN=fra:Orge maritime,eng:Sea Barley,deu:Strandgerste,nld:Zeegerst}
@@ -2646,7 +2641,9 @@ Plantae [kingdom]
           Hordeum vulgare subsp. vulgare [subspecies] {VERN=nld:Meerrijige gerst}
           Hordeum vulgare var. nudum [variety] {VERN=nld:Naakte gerst}
           Hordeum vulgare var. vulgare [variety] {VERN=nld:Bedekte gerst}
-          Hordeum vulgare vulgare [subspecies] {VERN=nld:Tweerijige bedekte gerst}
+          Hordeum vulgare var. vulgare f. distichum [subspecies] {VERN=nld:Tweerijige bedekte gerst}
+          Hordeum vulgare var. vulgare f. hexastichum [infraspecific_name] {VERN=deu:Sechszeilige Spelzgerste,nld:Zesrijige bedekte gerst,eng:six-row hulled barley}
+          Hordeum vulgare var. vulgare f. tetrastichum [infraspecific_name] {VERN=nld:Vierrijige bedekte gerst,deu:Vierzeilige Spelzgerste,eng:four-row hulled barley}
       Koeleria [genus] {VERN=eng:Crested Hair-grass,nld:Fakkelgras,fra:Koelérie,deu:Schillergras}
         Koeleria macrantha [species] {VERN=eng:Crested Hair-grass,fra:Koelérie grêle,nld:Smal fakkelgras,deu:Zierliches Schillergras}
         Koeleria pyramidata [species] {VERN=nld:Breed fakkelgras,deu:Gemeine Kammschmiele,fra:Koelérie pyramidale,eng:Pyramidal Hair-grass}
