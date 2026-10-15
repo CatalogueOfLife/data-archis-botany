@@ -3013,11 +3013,11 @@ Plantae [kingdom]
         Nigella sativa [species] {VERN=nld:Zwarte komijn,eng:Black cumin,deu:Schwarzkümmel,fra:Cumin noir}
       Pulsatilla [genus] {VERN=fra:Anémone pulsatille,deu:Kuhschelle,eng:Pasqueflower,nld:Wildemanskruid}
         Pulsatilla vulgaris [species] {VERN=deu:Gewöhnliche Küchenschelle,nld:Wildemanskruid}
-      Ranunculus (Batrachium) [subgenus] {VERN=nld:Waterranonkel}
-        =Batrachium [unranked]
+      Ranunculus [genus] {VERN=nld:Boterbloem,eng:Buttercup,deu:Hahnenfuss,fra:Renoncule}
+        Ranunculus (Batrachium) [subgenus] {VERN=nld:Waterranonkel}
+          =Batrachium [unranked]
       Ranunculus (Ranunculus) [subgenus] {VERN=nld:Boterbloem subg. Boterbloem}
       Ranunculus sect. Flammula [section_botany] {VERN=nld:Egelboterbloem-sectie}
-      Ranunculus [genus] {VERN=nld:Boterbloem,eng:Buttercup,deu:Hahnenfuss,fra:Renoncule}
         Ranunculus acris [species] {VERN=eng:Meadow Buttercup,fra:Renoncule âcre,deu:Scharfer Hahnenfuß,nld:Scherpe boterbloem}
         Ranunculus aquatilis [species] {VERN=eng:Common Water-crowfoot,nld:Fijne waterranonkel,deu:Gemeiner Wasserhahnenfuß,fra:Renoncule aquatique}
           Ranunculus aquatilis var. aquatilis [variety] {VERN=nld:Middelste waterranonkel}
