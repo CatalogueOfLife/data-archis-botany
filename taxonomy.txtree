@@ -3143,28 +3143,28 @@ Plantae [kingdom]
         Prunus cerasifera [species] {VERN=nld:Kerspruim,eng:Cherry Plum / Myrobalan,deu:Kirschpflaume,fra:Myrobolan}
         Prunus cerasus [species] {VERN=nld:Zure kers,eng:Dwarf Cherry / Sour Cherry,deu:Weichselkirsche,fra:Griottier}
         Prunus domestica [species] {VERN=nld:Pruim,eng:Plum,deu:Zwetschgenbaum,fra:Prunier Prunier crèque}
-          Prunus domestica domestica (Gro-10) [infraspecific_name] {VERN=nld:Varkenspruim}
-          Prunus domestica domestica (Gro-7) [infraspecific_name] {VERN=nld:Pruim kwets}
-          Prunus domestica domestica (Gro-8) [infraspecific_name] {VERN=nld:Pruim spilling}
-          Prunus domestica domestica (Gro-9) [infraspecific_name] {VERN=nld:Pruim van Damast}
+          Prunus domestica subsp. domestica [subspecies] {VERN=nld:Pruim s.s.,eng:Plum,fra:Prunier}
+            Prunus domestica subsp. domestica var. italica [variety] {VERN=nld:Reine Claudepruim}
+            Prunus domestica subsp. domestica (Gro-10) [infraspecific_name] {VERN=nld:Varkenspruim}
+            Prunus domestica subsp. domestica (Gro-7) [infraspecific_name] {VERN=nld:Pruim kwets}
+            Prunus domestica subsp. domestica (Gro-8) [infraspecific_name] {VERN=nld:Pruim spilling}
+            Prunus domestica subsp. domestica (Gro-9) [infraspecific_name] {VERN=nld:Pruim van Damast}
           Prunus domestica subsp. insititia [subspecies] {VERN=nld:Kroosjes,eng:Bullace,fra:Prunier crèque}
-            Prunus domestica insititia (Gro-1) [infraspecific_name] {VERN=nld:Bonte kroospruim}
-            Prunus domestica insititia (Gro-11) [infraspecific_name] {VERN=nld:Gewoon boerenblauwtje}
-            Prunus domestica insititia (Gro-12) [infraspecific_name] {VERN=nld:Kroosjes Gro-12}
-            Prunus domestica insititia (Gro-13) [infraspecific_name] {VERN=nld:Pruim smal boerenblauwtje}
-            Prunus domestica insititia (Gro-2) [infraspecific_name] {VERN=nld:Bonne de Bry}
-            Prunus domestica insititia (Gro-3) [infraspecific_name] {VERN=nld:Kroosjespruim St. Julien}
-            Prunus domestica insititia (Gro-4) [infraspecific_name] {VERN=nld:Kroosjespruim "Dordogne"}
-            Prunus domestica insititia (Gro-5) [infraspecific_name] {VERN=nld:Kroosjespruim boerewitte}
-            Prunus domestica insititia (Gro-5a) [infraspecific_name] {VERN=nld:Pruim / enkele boerewitte}
-            Prunus domestica insititia (Gro-5b) [infraspecific_name] {VERN=nld:Pruim / dubbele boerewitte}
-            Prunus domestica insititia (Gro-6) [infraspecific_name] {VERN=nld:Kroosjespruim Blijham}
+            Prunus domestica subsp. insititia (Gro-1) [infraspecific_name] {VERN=nld:Bonte kroospruim}
+            Prunus domestica subsp. insititia (Gro-11) [infraspecific_name] {VERN=nld:Gewoon boerenblauwtje}
+            Prunus domestica subsp. insititia (Gro-12) [infraspecific_name] {VERN=nld:Kroosjes Gro-12}
+            Prunus domestica subsp. insititia (Gro-13) [infraspecific_name] {VERN=nld:Pruim smal boerenblauwtje}
+            Prunus domestica subsp. insititia (Gro-2) [infraspecific_name] {VERN=nld:Bonne de Bry}
+            Prunus domestica subsp. insititia (Gro-3) [infraspecific_name] {VERN=nld:Kroosjespruim St. Julien}
+            Prunus domestica subsp. insititia (Gro-4) [infraspecific_name] {VERN=nld:Kroosjespruim "Dordogne"}
+            Prunus domestica subsp. insititia (Gro-5) [infraspecific_name] {VERN=nld:Kroosjespruim boerewitte}
+            Prunus domestica subsp. insititia (Gro-5a) [infraspecific_name] {VERN=nld:Pruim / enkele boerewitte}
+            Prunus domestica subsp. insititia (Gro-5b) [infraspecific_name] {VERN=nld:Pruim / dubbele boerewitte}
+            Prunus domestica subsp. insititia (Gro-6) [infraspecific_name] {VERN=nld:Kroosjespruim Blijham}
           Prunus domestica cv. pershore [cultivar] {CODE=CULTIVARS VERN=nld:Pershore pruim}
           Prunus domestica cv. tonneboer [cultivar] {CODE=CULTIVARS VERN=nld:Tonneboer pruim}
-          Prunus domestica intermedia [subspecies]
-          Prunus domestica italica [subspecies] {VERN=nld:Reine Claudepruim}
-          Prunus domestica subsp. domestica [subspecies] {VERN=nld:Pruim s.s.,eng:Plum,fra:Prunier}
-          Prunus domestica syriaca [subspecies] {VERN=nld:Nancy-mirabel,eng:white bullace}
+          Prunus domestica subsp. intermedia [subspecies]
+          Prunus domestica subsp. syriaca [subspecies] {VERN=nld:Nancy-mirabel,eng:white bullace}
         Prunus dulcis (Mill.) D.A.Webb [species] {VERN=nld:Amandel}
         Prunus laurocerasus [species] {VERN=nld:Laurierkers,eng:Saint Lucie Cherry,deu:Steinweichsel,fra:Bois de Sainte-Lucie}
         Prunus mahaleb [species] {VERN=nld:Weichselboom,eng:Bird Cherry,deu:Traubenkirsche,fra:Cerisier à grappes}
