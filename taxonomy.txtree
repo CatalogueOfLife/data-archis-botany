@@ -359,7 +359,6 @@ Plantae [kingdom]
       Aster [genus] {VERN=eng:Aster,nld:Aster,deu:Aster,fra:Aster}
         Aster macrophyllus [species] {VERN=fra:Aster à grande feuilles,deu:Grossblättrige Aster,nld:Grote aster,eng:Large-leaved Aster}
         Aster novi-belgii [species] {VERN=deu:Neubelgische Aster,nld:Nieuwnederlandse aster}
-          Aster tripolium f. discoideus [form] {VERN=fra:Aster maritime,eng:Sea Aster,deu:Strandaster,nld:Zulte}
         Aster × versicolor [species] {VERN=fra:Aster versicolore,deu:Bunte Aster,nld:Herfstaster}
       Baccharis [genus]
         Baccharis halimifolia L. [species] {VERN=nld:Struikaster}
@@ -640,7 +639,9 @@ Plantae [kingdom]
             =Matricaria maritima subsp. inodora [subspecies] 
       Tripolium Nees [genus]
         Tripolium pannonicum (Jacq.) Dobrocz. [species] {VERN=fra:Aster maritime,eng:Sea Aster,deu:Strandaster,nld:Zulte}
+          =Tripolium pannonicum f. discoideum (Rchb.fil.) B.Bock [forma]
           =Aster tripolium L. [species]
+          =Aster tripolium var. discoideus [variety] {VERN=fra:Aster maritime,eng:Sea Aster,deu:Strandaster,nld:Zulte}
       Tussilago [genus] {VERN=eng:Coltsfoot,deu:Huflattich,nld:Klein hoefblad,fra:Tussilage}
         Tussilago farfara [species] {VERN=eng:Coltsfoot,deu:Huflattich,nld:Klein hoefblad,fra:Tussilage}
       Xanthium [genus] {VERN=eng:Cocklebur,fra:Lampourde,deu:Spitzklette,nld:Stekelnoot}
@@ -2577,8 +2578,8 @@ Plantae [kingdom]
           =Agropyron junceum [species]
         Elytrigia repens [species] {VERN=fra:Chiendent commun,eng:Couch-grass,deu:Gemeine Quecke,nld:Kweek}
           =Agropyron repens [species]
-          Elymus repens subsp. arenosus (Spenn.) Melderis [subspecies]
-            =Elytrigia maritima Tzvelev [species] {VERN=nld:Zandkweek}
+          =Elymus repens subsp. arenosus (Spenn.) Melderis [subspecies]
+          =Elytrigia maritima Tzvelev [species] {VERN=nld:Zandkweek}
       Eragrostis [genus] {VERN=fra:Eragrostis,deu:Liebesgras,nld:Liefdegras,eng:Love-grass}
         Eragrostis minor [species] {VERN=fra:Eragrostis faux-pâturin,nld:Klein liefdegras,deu:Kleines Liebesgras,eng:Lesser love-grass}
           =Eragrostis poaeoides [species]
@@ -3245,6 +3246,7 @@ Plantae [kingdom]
         Galium uliginosum [species] {VERN=eng:Fen Bedstraw,fra:Gaillet des fanges,deu:Moor-Labkraut,nld:Ruw walstro}
         Galium verum [species] {VERN=fra:Gaillet jaune,nld:Geel walstro,deu:Gelbes Labkraut,eng:Lady's Bedstraw}
         Galium × pomeranicum [species] {VERN=nld:Geelwit walstro}
+      Hydrogalium Kadereit & Schneew. [genus]
         Hydrogalium palustre (L.) Kadereit & Schneew. [species] {VERN=eng:Common Marsh-bedstraw,fra:Gaillet des marais,nld:Moeraswalstro,deu:Sumpf-Labkraut}
           =Galium palustre L. [species] 
       Rubia [genus] {VERN=deu:Färberröte,fra:Garance,nld:Meekrap,eng:Wild Madder}
@@ -3573,8 +3575,8 @@ Plantae [kingdom]
         Viola rupestris [species] {VERN=deu:Sand-Veilchen,eng:Teesdale Violet,fra:Violette des sables,nld:Zandviooltje}
         Viola stagnina Kit. [species] {VERN=eng:Fen Violet,nld:Melkviooltje,deu:Moor-Veilchen,fra:Violette des étangs}
           =Viola persicifolia Hegetschw. [species]
-          Viola persicifolia var. lacteaeoides [variety] {VERN=nld:Heidemelkviooltje}
-          Viola persicifolia var. persicifolia [variety] {VERN=nld:Veenmelkviooltje}
+            =Viola persicifolia var. lacteaeoides [variety] {VERN=nld:Heidemelkviooltje}
+            =Viola persicifolia var. persicifolia [variety] {VERN=nld:Veenmelkviooltje}
         Viola tricolor [species] {VERN=nld:Driekleurig viooltje,deu:Echtes Veilchen,fra:Pensée sauvage,eng:Wild Pansy}
           Viola tricolor cv. [cultivar] {CODE=CULTIVARS VERN=eng:Garden Pansy,nld:Tuinviooltje}
     Viscaceae [family] {VERN=nld:Maretakfamilie}
