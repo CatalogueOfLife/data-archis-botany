@@ -2232,6 +2232,9 @@ Plantae [kingdom]
         Oenothera deflexa [species] {VERN=nld:Zandteunisbloem}
         Oenothera glazioviana [species] {VERN=nld:Grote teunisbloem,eng:Small-flowered Early Primrose,deu:Rotkelchige Nachtkerze,fra:Onagre à grandes fleurs}
         Oenothera oakesiana [species] {VERN=nld:Duinteunisbloem}
+    Onocleaceae [family] {VERN=nld:Bolletjesvarenfamilie}
+      Matteuccia [genus] {VERN=nld:Struisvaren,eng:Ostrich Fern,deu:Straussfarn,fra:Matteuccie}
+        Matteuccia struthiopteris [species] {VERN=nld:Struisvaren,eng:Ostrich Fern,deu:Straußfarn,fra:Matteuccie}
     Ophioglossaceae [family] {VERN=nld:Addertongfamilie}
       Botrychium [genus] {VERN=fra:Botryche,nld:Maanvaren,deu:Mondraute,eng:Moonwort}
         Botrychium lunaria [species] {VERN=fra:Botryche lunaire,nld:Gelobde maanvaren,deu:Gewöhnliche Mondraute,eng:Moonwort}
@@ -2356,8 +2359,6 @@ Plantae [kingdom]
       Glaucium [genus] {VERN=nld:Hoornpapaver,eng:Horned-poppy,deu:Hornmohn,fra:Pavot cornu}
         Glaucium corniculatum [species] {VERN=fra:Pavot cornu rouge,eng:Red Horned-poppy,nld:Rode hoornpapaver,deu:Roter Hornmohn}
         Glaucium flavum [species] {VERN=deu:Gelber Hornmohn,nld:Gele hoornpapaver,fra:Pavot cornu,eng:Yellow Horned-poppy}
-      Matteuccia [genus] {VERN=nld:Struisvaren,eng:Ostrich Fern,deu:Straussfarn,fra:Matteuccie}
-        Matteuccia struthiopteris [species] {VERN=nld:Struisvaren,eng:Ostrich Fern,deu:Straußfarn,fra:Matteuccie}
       Papaver [genus] {VERN=nld:Klaproos,eng:Poppy,deu:Mohn,fra:Pavot}
         Papaver argemone L. [species] {VERN=nld:Ruige klaproos,eng:Long Prickly-headed Poppy,deu:Sand-Mohn,fra:Coquelicot argémone}
         Papaver atlanticum [species] {VERN=nld:Donzige klaproos}
