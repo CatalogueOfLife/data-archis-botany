@@ -374,7 +374,7 @@ Plantae [kingdom]
         Bidens tripartita [species] {VERN=fra:Bident tripartiti,deu:Dreiteiliger Zweizahn,eng:Trifid Bur-marigold,nld:Veerdelig tandzaad}
           =Bidens tripartitus [species]
       Calendula [genus] {VERN=nld:Goudsbloem,eng:Marigold,deu:Ringelblume,fra:Souci}
-        Calendula arvensis [species] {VERN=deu:Acker-Ringelblume,nld:Akkergoudsbloem,eng:Field Marigold,fra:Souci des champs}
+        Calendula arvensis L. [species] {VERN=deu:Acker-Ringelblume,nld:Akkergoudsbloem,eng:Field Marigold,fra:Souci des champs}
         Calendula officinalis [species] {VERN=deu:Garten-Ringelblume,nld:Goudsbloem,eng:Pot Marigold,fra:Souci officinal}
       Carduus [genus] {VERN=fra:Chardon,nld:Distel,deu:Distel,eng:Thistle}
         Carduus acanthoides [species] {VERN=fra:Chardon faux-acanthe,nld:Langstekelige distel,eng:Plumeless Thistle,deu:Wegdistel}
@@ -1217,7 +1217,7 @@ Plantae [kingdom]
         Cucumis melo [species] {VERN=nld:Meloen,eng:Melon,fra:Melon,deu:Melone}
         Cucumis sativus [species] {VERN=fra:Concombre,eng:Cucumber,deu:Gurke,nld:Komkommer}
       Cucurbita [genus] {VERN=fra:Courge,eng:Gourd,deu:Kürbis,nld:Pompoen}
-        Cucurbita pepo [species] {VERN=fra:Courge,deu:Kürbis,eng:Marrow / Ornamental Gourd,nld:Sierpompoen}
+        Cucurbita pepo L. [species] {VERN=fra:Courge,deu:Kürbis,eng:Marrow / Ornamental Gourd,nld:Sierpompoen}
       Lagenaria [genus] {VERN=eng:Bottle-gourd,deu:Flaschenkürbis,nld:Fleskalebas,fra:Gourde}
         Lagenaria siceraria [species] {VERN=eng:Bottle-gourd,deu:Flaschenkürbis,nld:Fleskalebas,fra:Gourde}
     Cupressaceae [family] {VERN=nld:Cypresfamilie}
@@ -2204,7 +2204,7 @@ Plantae [kingdom]
         =Chamerion [genus]
         Chamaenerion angustifolium (L.) Scop. [species] {VERN=fra:Epilobe en épi,eng:Rosebay Willowherb,deu:Stauden-Feuerkraut,nld:Wilgenroosje}
           =Chamerion angustifolium L. [species]
-      Circaea [genus] {VERN=fra:Circée,eng:Enchanter's-nightshade,nld:Heksenkruid,deu:Hexenkraut}
+      Circaea L. [genus] {VERN=fra:Circée,eng:Enchanter's-nightshade,nld:Heksenkruid,deu:Hexenkraut}
         Circaea alpina [species] {VERN=deu:Alpen-Hexenkraut,nld:Alpenheksenkruid,eng:Alpine Enchanter's-nightshade,fra:Circée des Alpes}
         Circaea lutetiana [species] {VERN=fra:Circée de Paris,eng:Enchanter's-nightshade,deu:Gemeines Hexenkraut,nld:Groot heksenkruid}
         Circaea × intermedia [species] {VERN=fra:Circée intermédiaire,nld:Klein heksenkruid,eng:Upland Enchanter's-nightshade}
@@ -2958,7 +2958,7 @@ Plantae [kingdom]
       Adiantum [genus]
         Adiantum capillus-veneris [species] {VERN=fra:Cheveux de Vénus,eng:Maidenhair Fern,nld:Venushaar,deu:Venushaar}
         Adiantum diaphanum [species] {VERN=nld:Smal venushaar}
-        Adiantum raddianum [species] {VERN=nld:Fijn venushaar}
+        Adiantum raddianum C.Presl [species] {VERN=nld:Fijn venushaar}
       Pteris L. [genus]
         Pteris cretica [species] {VERN=nld:Lintvaren}
     Pyrolaceae [family] {VERN=nld:Wintergroenfamilie}
@@ -3191,7 +3191,7 @@ Plantae [kingdom]
         Rosa hollandica [species]
           =Rosa 'Hollandica' [cultivar] {CODE=CULTIVARS VERN=nld:Bosroos,deu:Feld-Rose,eng:Field-rose,fra:Rosier des champs}
         Rosa majalis Herrm. [species] {VERN=eng:Cinnamom Rose,nld:Kaneelroos,fra:Rosier cannette,deu:Zimt-Rose}
-        Rosa multiflora [species] {VERN=deu:Büschel-Rose,eng:Many-flowered Rose,fra:Rosier à fleurs nombreuses,nld:Veelbloemige roos}
+        Rosa multiflora Thunb. [species] {VERN=deu:Büschel-Rose,eng:Many-flowered Rose,fra:Rosier à fleurs nombreuses,nld:Veelbloemige roos}
         Rosa rubiginosa [species] {VERN=nld:Egelantier,fra:Rosier rouillé,eng:Sweet-briar,deu:Wein-Rose}
         Rosa rugosa [species] {VERN=eng:Japanese Rose,deu:Kartoffel-Rose,nld:Rimpelroos,fra:Rosier rugueux}
         Rosa spinosissima L. [species] {VERN=eng:Burnet Rose,nld:Duinroos,deu:Reichstachelige Rose,fra:Rosier pimprenelle}
