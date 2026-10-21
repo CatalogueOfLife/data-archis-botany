@@ -285,7 +285,7 @@ Plantae [kingdom]
       Spirodela [genus] {VERN=eng:Great Duckweed,fra:Lentille à plusieurs racines,deu:Teichlinse,nld:Veelwortelig kroos}
         Spirodela polyrhiza [species] {VERN=eng:Great Duckweed,fra:Lentille à plusieurs racines,nld:Veelwortelig kroos,deu:Vielwurzelige Teichlinse}
       Wolffia [genus] {VERN=fra:Lentille sans racines,eng:Rootless Duckweed,nld:Wortelloos kroos,deu:Zwerglinse}
-        Wolffia arrhiza [species] {VERN=deu:Entenlinse,fra:Lentille sans racines,eng:Rootless Duckweed,nld:Wortelloos kroos}
+        Wolffia arrhiza (L.) Horkel ex Wimm. [species] {VERN=deu:Entenlinse,fra:Lentille sans racines,eng:Rootless Duckweed,nld:Wortelloos kroos}
     Araliaceae [family] {VERN=nld:Klimopfamilie}
       Hedera [genus] {VERN=deu:Efeu,eng:Ivy,nld:Klimop,fra:Lierre}
         Hedera helix [species] {VERN=deu:Efeu,eng:Ivy,nld:Klimop,fra:Lierre}
@@ -319,7 +319,7 @@ Plantae [kingdom]
       Achillea [genus] {VERN=fra:Achillée,nld:Duizendblad,deu:Schafgarbe,eng:Sneezewort & Yarrow}
         Achillea millefolium [species] {VERN=fra:Achillée millefeuille,nld:Duizendblad,deu:Gemeine Schafgarbe,eng:Yarrow / Milfoil}
         Achillea ptarmica [species] {VERN=fra:Achillée sternutatoire,eng:Sneezewort,nld:Wilde bertram,deu:Wilder Bertram}
-      Ambrosia [genus] {VERN=fra:Ambroisie,nld:Ambrosia,eng:American Wormwood,deu:Traubenkraut}
+      Ambrosia L. [genus] {VERN=fra:Ambroisie,nld:Ambrosia,eng:American Wormwood,deu:Traubenkraut}
         Ambrosia artemisiifolia [species] {VERN=nld:Alsemambrosia,fra:Ambroisie annuelle,deu:Beifussblättriges Traubenkraut,eng:Roman Ragweed}
         Ambrosia psilostachya [species] {VERN=fra:Ambroisie vivace,deu:Krähenfuss-Traubenkraut,eng:Perennial Ragweed,nld:Zandambrosia}
           =Ambrosia coronopifolia [species]
@@ -1306,7 +1306,7 @@ Plantae [kingdom]
         Carex paniculata [species] {VERN=eng:Greater Tussock-sedge,fra:Laîche paniculée,nld:Pluimzegge,deu:Rispensegge}
         Carex pendula [species] {VERN=nld:Hangende zegge,fra:Laîche pendante,eng:Pendulous sedge,deu:Überhängende Segge}
         Carex pilulifera [species] {VERN=fra:Laîche à pilules,eng:Pill Sedge,deu:Pillensegge,nld:Pilzegge}
-        Carex praecox [species] {VERN=eng:Early Sedge,deu:Frühzeitige Segge,fra:Laîche précoce,nld:Vroege zegge}
+        Carex praecox Schreb. [species] {VERN=eng:Early Sedge,deu:Frühzeitige Segge,fra:Laîche précoce,nld:Vroege zegge}
         Carex pseudocyperus [species] {VERN=deu:Cypergras-Segge,eng:Cyperus Sedge,nld:Hoge cyperzegge,fra:Laîche faux-souchet}
         Carex pulicaris [species] {VERN=eng:Flea Sedge,deu:Flohsegge,fra:Laîche puce,nld:Vlozegge}
         Carex punctata [species] {VERN=eng:Dotted Sedge,fra:Laîche ponctée,deu:Punktierte Segge,nld:Stippelzegge}
@@ -2293,7 +2293,7 @@ Plantae [kingdom]
         Nemesia melissaefolia [species] {VERN=nld:Waterkers}
       Neottia [genus] {VERN=nld:Vogelnestje,eng:Bird's-nest Orchid,deu:Nestwurz,fra:Néottie}
         Neottia nidus-avis [species] {VERN=nld:Vogelnestje,eng:Bird's-nest Orchid,deu:Nestwurz,fra:Néottie}
-      Ophrys [genus] {VERN=nld:Spiegelorchis,eng:Orchid,deu:Ragwurz,fra:Ophrys}
+      Ophrys L. [genus] {VERN=nld:Spiegelorchis,eng:Orchid,deu:Ragwurz,fra:Ophrys}
         Ophrys apifera [species] {VERN=nld:Bijenorchis,eng:Bee Orchid,deu:Bienen-Ragwurz,fra:Ophrys abeille}
         Ophrys insectifera [species] {VERN=nld:Vliegenorchis,eng:Fly Orchid,deu:Fliegen-Ragwurz,fra:Ophrys mouche}
         Ophrys sphegodes [species] {VERN=nld:Spinnenorchis,eng:Early Spider Orchid,deu:Spinnen-Ragwurz,fra:Ophrys araignée}
@@ -2868,8 +2868,7 @@ Plantae [kingdom]
     Polypodiaceae [family] {VERN=nld:Eikvarenfamilie}
       Polypodium L. [genus] {VERN=nld:Eikvaren,eng:Polypody,deu:Türpelfarn,fra:Polypode}
         Polypodium interjectum [species] {VERN=nld:Brede eikvaren,eng:Intermediate Polypody,deu:Gesägter Tüpfelfarn}
-          =Polypodium vulgare morph interjectum [morph] {CODE=ZOOLOGICAL}
-        Polypodium vulgare [species] {VERN=nld:Gewone eikvaren,deu:Engelsüss}
+        Polypodium vulgare L. [species] {VERN=nld:Gewone eikvaren,deu:Engelsüss}
     Pontederiaceae [family] {VERN=nld:Moerashyacintfamilie}
       Pontederia [genus] {VERN=nld:Moerashyacint,eng:Pickerel Weed,deu:Pontederie,fra:Pontédérie}
         Pontederia cordata [species] {VERN=nld:Moerashyacint,eng:Pickerelweed,deu:Pontederie,fra:Pontédérie}
@@ -2903,7 +2902,7 @@ Plantae [kingdom]
           =Potamogeton mucronatus Schrad. ex. Sond. [species]
         Potamogeton natans [species] {VERN=nld:Drijvend fonteinkruid,eng:Broad-leaved Pondweed,deu:Schwimmendes Laichkraut,fra:Potamot nageant}
         Potamogeton nodosus [species] {VERN=nld:Rivierfonteinkruid,eng:Loddon Pondweed,deu:Knotiges Laichkraut,fra:Potamot à feuilles flottantes}
-        Potamogeton obtusifolius [species] {VERN=nld:Stomp fonteinkruid,eng:Blunt-leaved Pondweed,deu:Stumpfblättriges Laichkraut,fra:Potamot à feuilles obtuses}
+        Potamogeton obtusifolius Mert. & W.D.J.Koch [species] {VERN=nld:Stomp fonteinkruid,eng:Blunt-leaved Pondweed,deu:Stumpfblättriges Laichkraut,fra:Potamot à feuilles obtuses}
         Potamogeton perfoliatus [species] {VERN=nld:Doorgroeid fonteinkruid,eng:Perfoliate Pondweed,deu:Durchwachsenes Laichkraut,fra:Potamot à feuilles perfoliées}
         Potamogeton polygonifolius [species] {VERN=nld:Duizendknoopfonteinkruid,eng:Bog Pondweed,deu:Knöterichblättriges Laichkraut,fra:Potamot à feuilles de renouée}
         Potamogeton praelongus [species] {VERN=nld:Langstengelig fonteinkruid,eng:Long-stalked Pondweed,deu:Langblättriges Laichkraut,fra:Potamot à longs pédoncules}
@@ -3280,7 +3279,8 @@ Plantae [kingdom]
         Populus balsamifera [species] {VERN=nld:Ontariopopulier,deu:Ontario-Pappel}
         Populus deltoides [species] {VERN=nld:Amerikaanse populier,eng:Cottonwood,deu:Rosenkranz-Pappel}
         Populus nigra [species] {VERN=nld:Zwarte populier,eng:Black Poplar,deu:Schwarzpappel,fra:Peuplier noir}
-          Populus nigra cv. [cultivar] {CODE=CULTIVARS VERN=nld:Italiaanse populier,eng:Lombardy Poplar,deu:Pyramidenpappel,fra:Peuplier d'Italie}
+          Populus nigra var. italica (Moench) Koehne [variety] {VERN=nld:Italiaanse populier,eng:Lombardy Poplar,deu:Pyramidenpappel,fra:Peuplier d'Italie}
+            =Populus nigra cv. italica [cultivar]
         Populus tremula [species] {VERN=nld:Ratelpopulier,eng:Aspen,deu:Aspe,fra:Peuplier tremble}
         Populus trichocarpa [species] {VERN=nld:Zwarte balsempopulier}
         Populus × canadensis [species] {VERN=nld:Canadapopulier,eng:Hybrid Black Poplar,deu:Kanada-Pappel,fra:Peuplier du Canada}
