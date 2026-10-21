@@ -984,7 +984,7 @@ Plantae [kingdom]
         Sambucus racemosa [species] {VERN=eng:Red-berried Elder,deu:Roter Holunder,fra:Sureau à grappes,nld:Trosvlier}
       Scabiosa [genus] {VERN=deu:Krätzkraut,fra:Scabieuse,nld:Scabiosa,eng:Scabious}
         Scabiosa columbaria [species] {VERN=fra:Colombaire,nld:Duifkruid,eng:Small Scabious,deu:Tauben-Skabiose}
-      Succisa [genus] {VERN=nld:Blauwe knoop,eng:Devil's-bit Scabious,fra:Succise,deu:Teufelsabbiss}
+      Succisa Haller [genus] {VERN=nld:Blauwe knoop,eng:Devil's-bit Scabious,fra:Succise,deu:Teufelsabbiss}
         Succisa pratensis [species] {VERN=nld:Blauwe knoop,eng:Devil's-bit Scabious,fra:Succise des prés,deu:Teufelsabbiss}
       Symphoricarpos [genus] {VERN=deu:Schneebeere,nld:Sneeuwbes,eng:Snowberry,fra:Symphorine}
         Symphoricarpos albus [species] {VERN=deu:Schneebeere,nld:Sneeuwbes,eng:Snowberry,fra:Symphorine}
@@ -1594,7 +1594,7 @@ Plantae [kingdom]
       Pisum [genus] {VERN=nld:Erwt,eng:Pea,deu:Erbse,fra:Pois}
         Pisum sativum [species] {VERN=nld:Erwt,eng:Garden / Field Pea,deu:Garten-Erbse,fra:Pois cultivé}
           Pisum sativum subsp. sativum [subspecies] {VERN=nld:Gekweekte erwt}
-      Robinia [genus] {VERN=eng:False Acacia,nld:Robinia,deu:Robinie,fra:Robinier}
+      Robinia L. [genus] {VERN=eng:False Acacia,nld:Robinia,deu:Robinie,fra:Robinier}
         Robinia pseudoacacia [species] {VERN=eng:Locust Tree,nld:Robinia,deu:Robinie,fra:Robinier faux-acacia}
       Scorpiurus L. [genus] {VERN=nld:Scorpiurus}
       Securigera [genus] {VERN=nld:Kroonkruid}
@@ -1971,7 +1971,7 @@ Plantae [kingdom]
         Pinguicula vulgaris [species] {VERN=nld:Vetblad,deu:Gemeines Fettblatt}
       Utricularia [genus] {VERN=nld:Blaasjeskruid,eng:Bladderwort,fra:Utriculaire,deu:Wasserschlauch}
         Utricularia australis [species] {VERN=eng:Bladderwort,nld:Loos blaasjeskruid,deu:Südlicher Wasserschlauch,fra:Utriculaire citrine}
-        Utricularia intermedia [species] {VERN=eng:Intermediate Bladderwort,deu:Mittlerer Wasserschlauch,nld:Plat blaasjeskruid,fra:Utriculaire intermédiaire}
+        Utricularia intermedia Hayne [species] {VERN=eng:Intermediate Bladderwort,deu:Mittlerer Wasserschlauch,nld:Plat blaasjeskruid,fra:Utriculaire intermédiaire}
         Utricularia minor [species] {VERN=nld:Klein blaasjeskruid,deu:Kleiner Wasserschlauch,eng:Lesser Bladderwort,fra:Petite utriculaire}
         Utricularia ochroleuca [species] {VERN=deu:Blassgelber Wasserschlauch,nld:Bleekgeel blaasjeskruid,eng:Pale Bladderwort,fra:Utriculaire jaunâtre}
         Utricularia vulgaris [species] {VERN=deu:Gemeiner Wasserschlauch,nld:Groot blaasjeskruid}
@@ -2581,7 +2581,7 @@ Plantae [kingdom]
       Elytrigia [genus] {VERN=nld:Kweek}
         Elytrigia atherica [species] {VERN=fra:Agropyre littoral,eng:Sea Couch-grass,deu:Strand-Quecke,nld:Strandkweek}
           =Agropyron pungens [species]
-        Elytrigia juncea [species] {VERN=nld:Biestarwegras,deu:Binsen-Quecke}
+        Elytrigia juncea (L.) Nevski [species] {VERN=nld:Biestarwegras,deu:Binsen-Quecke}
           =Agropyron junceum [species]
         Elytrigia repens [species] {VERN=fra:Chiendent commun,eng:Couch-grass,deu:Gemeine Quecke,nld:Kweek}
           =Agropyron repens [species]
@@ -3191,7 +3191,7 @@ Plantae [kingdom]
         Rosa glauca [species] {VERN=nld:Hollandse bottelroos}
         Rosa hollandica [species]
           =Rosa 'Hollandica' [cultivar] {CODE=CULTIVARS VERN=nld:Bosroos,deu:Feld-Rose,eng:Field-rose,fra:Rosier des champs}
-        Rosa majalis [species] {VERN=eng:Cinnamom Rose,nld:Kaneelroos,fra:Rosier cannette,deu:Zimt-Rose}
+        Rosa majalis Herrm. [species] {VERN=eng:Cinnamom Rose,nld:Kaneelroos,fra:Rosier cannette,deu:Zimt-Rose}
         Rosa multiflora [species] {VERN=deu:Büschel-Rose,eng:Many-flowered Rose,fra:Rosier à fleurs nombreuses,nld:Veelbloemige roos}
         Rosa rubiginosa [species] {VERN=nld:Egelantier,fra:Rosier rouillé,eng:Sweet-briar,deu:Wein-Rose}
         Rosa rugosa [species] {VERN=eng:Japanese Rose,deu:Kartoffel-Rose,nld:Rimpelroos,fra:Rosier rugueux}
@@ -3335,7 +3335,7 @@ Plantae [kingdom]
         Aesculus carnea [species] {VERN=deu:Fleischrote Rosskastanie,fra:Marronnier rose,eng:Red Horse-chestnut,nld:Rode paardenkastanje}
           =Aesculus × carnea [species]
         Aesculus hippocastanum [species] {VERN=eng:Horse-chestnut,fra:Marronnier d'Inde,deu:Rosskastanie,nld:Witte paardenkastanje}
-    Saxifragaceae [family] {VERN=nld:Steenbreekfamilie}
+    Saxifragaceae Juss. [family] {VERN=nld:Steenbreekfamilie}
       Chrysosplenium [genus] {VERN=fra:Dorine,eng:Golden Saxifrage,nld:Goudveil,deu:Milzkraut}
         Chrysosplenium alternifolium [species] {VERN=eng:Alternate-leaved Golden Saxifrage,fra:Dorine à feuilles alternes,nld:Verspreidbladig goudveil,deu:Wechselblättriges Milzkraut}
         Chrysosplenium oppositifolium [species] {VERN=fra:Dorine à feuilles opposée,deu:Gegenblättriges Milzkraut,eng:Opposite-leaved Golden Saxifrage,nld:Paarbladig goudveil}
@@ -3424,7 +3424,7 @@ Plantae [kingdom]
         Scrophularia canina [species] {VERN=eng:French Figwort,nld:Hondshelmkruid,deu:Hunds-Braunwurz,fra:Rue des chiens}
         Scrophularia nodosa [species] {VERN=eng:Common Figwort,nld:Knopig helmkruid,deu:Knotige Braunwurz,fra:Scrofulaire noueuse}
         Scrophularia umbrosa [species] {VERN=deu:Geflügelte Braunwurz,nld:Gevleugeld helmkruid,eng:Green Figwort,fra:Scrofulaire ailée}
-          =Scrophularia auriculata umbrosa [infraspecific_name]
+          =Scrophularia auriculata subsp. umbrosa [subspecies]
           Scrophularia umbrosa subsp. neesii [subspecies] {VERN=nld:Middelst helmkruid}
           Scrophularia umbrosa subsp. umbrosa [subspecies] {VERN=nld:Rivierhelmkruid}
         Scrophularia vernalis [species] {VERN=deu:Frühlings-Braunwurz,fra:Scrofulaire printanière,nld:Voorjaarshelmkruid,eng:Yellow Figwort}
@@ -3568,7 +3568,7 @@ Plantae [kingdom]
         Viola canina x riviniana [species] {VERN=nld:Honds- x Bleeksporig bosviooltje}
           =Viola × intersita [species]
         Viola canina [species] {VERN=eng:Heath Dog-violet,nld:Hondsviooltje,deu:Hunds-Veilchen,fra:Violette des chiens}
-        Viola curtisii [species] {VERN=nld:Duinviooltje,eng:Dune Pansey,deu:Dünenveilchen,fra:Pensée des dunes}
+        Viola curtisii E.Forst. [species] {VERN=nld:Duinviooltje,eng:Dune Pansey,deu:Dünenveilchen,fra:Pensée des dunes}
           Viola curtisii subsp. coniophila [subspecies] {VERN=nld:Duinviooltje subsp. coniophila}
           Viola curtisii subsp. stenochila [subspecies] {VERN=nld:Duinviooltje subsp. stenochila}
         Viola hirta x odorata [species] {VERN=nld:Ruig x Maarts viooltje}
