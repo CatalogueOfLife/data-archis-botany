@@ -3348,10 +3348,9 @@ Plantae [kingdom]
         Saxifraga tridactylites [species] {VERN=deu:Dreifingriger Steinbrech,nld:Kandelaartje,eng:Rue-leaved Saxifrage,fra:Saxifrage tridactyle}
       Tellima [genus]
         Tellima grandiflora [species] {VERN=nld:Franjekelk}
-    Scheuchzeriaceae [family]
+    Scheuchzeriaceae [family] {VERN=nld:Veenbloembiesfamilie}
       Scheuchzeria [genus]
         Scheuchzeria palustris [species] {VERN=deu:Blumensimse,eng:Rannoch-rush,fra:Scheuchzérie,nld:Veenbloembies}
-    Scheuzeriaceae [family] {VERN=nld:Veenbloembiesfamilie}
     Scrophulariaceae [family] {VERN=nld:Helmkruidfamilie}
       =Buddlejaceae [family]
       Antirrhinum [genus] {VERN=nld:Grote leeuwenbek,deu:Löwenmaul,fra:Muflier,eng:Snapdragon}
