@@ -1779,7 +1779,7 @@ Plantae [kingdom]
       Iris [genus] {VERN=fra:Iris,eng:Iris / Flag,nld:Lis,deu:Schwertlilie}
         Iris foetidissima [species] {VERN=eng:Gladdon / Stinking Iris,fra:Iris fétide,nld:Stinkende lis,deu:Uebelriechede Iris}
         Iris pseudacorus [species] {VERN=deu:Gelbe Schwertlilie,nld:Gele lis,fra:Iris jaune,eng:Yellow Flag / Yellow Iris}
-        Iris x germanica [species] {VERN=nld:Blauwe lis,eng:German bearded iris,eng:German iris,fra:Iris germanique,deu:Deutsche Schwertlilie]
+        Iris x germanica [species] {VERN=nld:Blauwe lis,eng:German bearded iris,eng:German iris,fra:Iris germanique,deu:Deutsche Schwertlilie}
           =Iris germanica Forssk. ex Steud. [species]
     Isoetaceae [family] {VERN=nld:Biesvarenfamilie}
       Isoetes [genus] {VERN=nld:Biesvaren,deu:Brachsenkraut,fra:Isoète,eng:Quillwort}
