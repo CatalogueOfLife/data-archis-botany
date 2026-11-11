@@ -980,7 +980,7 @@ Plantae [kingdom]
         Sambucus canadensis [species] {VERN=eng:American Elder,nld:Amerikaanse vlier,deu:Amerikanischer Holunder,fra:Sureau d'Amérique}
         Sambucus ebulus [species] {VERN=deu:Attich,eng:Danewort/Dwarf Elder,nld:Kruidvlier,fra:Yèble}
         Sambucus nigra [species] {VERN=eng:Elder,nld:Gewone vlier,deu:Schwarzer Holunder,fra:Sureau noir}
-          Sambucus nigra cv. [cultivar] {CODE=CULTIVARS VERN=nld:Peterselievlier}
+          Sambucus nigra cv. laciniata [cultivar] {CODE=CULTIVARS VERN=nld:Peterselievlier}
         Sambucus racemosa [species] {VERN=eng:Red-berried Elder,deu:Roter Holunder,fra:Sureau à grappes,nld:Trosvlier}
       Scabiosa [genus] {VERN=deu:Krätzkraut,fra:Scabieuse,nld:Scabiosa,eng:Scabious}
         Scabiosa columbaria [species] {VERN=fra:Colombaire,nld:Duifkruid,eng:Small Scabious,deu:Tauben-Skabiose}
