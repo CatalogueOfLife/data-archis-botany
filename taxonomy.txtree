@@ -3588,7 +3588,7 @@ Plantae [kingdom]
             =Viola persicifolia var. lacteaeoides [variety] {VERN=nld:Heidemelkviooltje}
             =Viola persicifolia var. persicifolia [variety] {VERN=nld:Veenmelkviooltje}
         Viola tricolor [species] {VERN=nld:Driekleurig viooltje,deu:Echtes Veilchen,fra:Pensée sauvage,eng:Wild Pansy}
-          Viola tricolor cv. [cultivar] {CODE=CULTIVARS VERN=eng:Garden Pansy,nld:Tuinviooltje}
+          Viola tricolor cv. hortensis [cultivar] {CODE=CULTIVARS VERN=eng:Garden Pansy,nld:Tuinviooltje}
     Viscaceae [family] {VERN=nld:Maretakfamilie}
     Vitaceae [family] {VERN=nld:Wijnstokfamilie}
       Parthenocissus [genus] {VERN=nld:Wilde wingerd,eng:Virginia Creeper,deu:Jungfernrebe,fra:Vigne verge}
