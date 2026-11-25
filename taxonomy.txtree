@@ -1254,12 +1254,10 @@ Plantae [kingdom]
         Carex (Carex) [subgenus] {VERN=nld:Zegge subg. Carex}
           =Carex (tricarpellate) [unranked] {VERN=nld:Driekantige zegge}
           Carex buxbaumii [species] {VERN=deu:Buxbaums Segge,eng:Club Sedge,nld:Knotszegge,fra:Laîche de Buxbaum}
-          Carex caryophyllea [species] {VERN=deu:Frühlingssegge,fra:Laîche printanière,eng:Spring-sedge,nld:Voorjaarszegge}
           Carex chordorrhiza [species] {VERN=nld:Rankende zegge}
           Carex crawfordii [species] {VERN=nld:Amerikaanse hazenzegge,eng:Crawford's Sedge,deu:Crawford's Segge,fra:Laîche de Crawford}
           Carex digitata [species] {VERN=eng:Fingered Sedge,deu:Fingersegge,fra:Laîche digitée,nld:Vingerzegge}
           Carex distans [species] {VERN=eng:Distant Sedge,deu:Langgliedrige Segge,fra:Laîche à épis distants,nld:Zilte zegge}
-          Carex ericetorum [species] {VERN=deu:Heidesegge,nld:Heidezegge,fra:Laîche des landes,eng:Rare Spring-sedge}
           Carex extensa [species] {VERN=nld:Kwelderzegge,fra:Laîche étirée,eng:Long-bracted Sedge,deu:Strand-Segge}
           Carex flacca [species] {VERN=eng:Glaucous Sedge,fra:Laîche glauque,deu:Schlaffe Segge,nld:Zeegroene zegge}
           Carex hartmanii [species] {VERN=eng:Hartman's Sedge,deu:Hartmans Segge,nld:Kleine knotszegge,fra:Laîche de Hartman}
@@ -1268,7 +1266,6 @@ Plantae [kingdom]
           Carex pallescens [species] {VERN=deu:Bleiche Segge,nld:Bleke zegge,fra:Laîche pâle,eng:Pale Sedge}
           Carex panicea [species] {VERN=nld:Blauwe zegge,eng:Carnation Sedge,deu:Hirsen-Segge,fra:Laîche bleuâtre}
           Carex pendula [species] {VERN=nld:Hangende zegge,fra:Laîche pendante,eng:Pendulous sedge,deu:Überhängende Segge}
-          Carex pilulifera [species] {VERN=fra:Laîche à pilules,eng:Pill Sedge,deu:Pillensegge,nld:Pilzegge}
           Carex pulicaris [species] {VERN=eng:Flea Sedge,deu:Flohsegge,fra:Laîche puce,nld:Vlozegge}
           Carex punctata [species] {VERN=eng:Dotted Sedge,fra:Laîche ponctée,deu:Punktierte Segge,nld:Stippelzegge}
           Carex reichenbachii [species] {VERN=nld:Valse zandzegge}
@@ -1283,6 +1280,10 @@ Plantae [kingdom]
               =Carex hudsonii [species]
             Carex nigra [species] {VERN=deu:Braune Segge,eng:Common Sedge,fra:Laîche vulgaire,nld:Zwarte zegge}
             Carex trinervis [species] {VERN=deu:Dreinervige Segge,nld:Drienervige zegge,fra:Laîche à trois nervures,eng:Three-nerved Sedge}
+          Carex sect. Acrocystis [section_botany]
+            Carex caryophyllea [species] {VERN=deu:Frühlingssegge,fra:Laîche printanière,eng:Spring-sedge,nld:Voorjaarszegge}
+            Carex ericetorum [species] {VERN=deu:Heidesegge,nld:Heidezegge,fra:Laîche des landes,eng:Rare Spring-sedge}
+            Carex pilulifera [species] {VERN=fra:Laîche à pilules,eng:Pill Sedge,deu:Pillensegge,nld:Pilzegge}
           Carex sect. Carex [section_botany]
             =Carex sect. Hirtae [section_botany] {VERN=nld:Ruige zeggesectie}
             =Carex sect. Paludosae[section_botany]
@@ -1306,29 +1307,35 @@ Plantae [kingdom]
             Carex vesicaria [species] {VERN=nld:Blaaszegge,eng:Bladder Sedge,deu:Blasensegge,fra:Laîche vésicileuse}
         Carex (Vignea) [subgenus] {VERN=nld:Zegge subg. Vignea}
           =Carex (bicarpellate) [unranked] {VERN=nld:Tweekantige zegge}
-          Carex arenaria [species] {VERN=fra:Laîche des sables,eng:Sand Sedge,deu:Sand-Segge,nld:Zandzegge}
-          Carex brizoides [species] {VERN=fra:Laîche brize,eng:Quaking-grass Sedge,nld:Trilgraszegge,deu:Wald-Seegras}
           Carex curta [species] {VERN=deu:Graue Segge,fra:Laîche blanchâtre,eng:White Sedge,nld:Zompzegge}
           Carex dioica [species] {VERN=eng:Dioecious Sedge,fra:Laîche dio´que,nld:Tweehuizige zegge,deu:Zweihäusige Segge}
-          Carex disticha [species] {VERN=eng:Brown Sedge,fra:Laîche distique,nld:Tweerijige zegge,deu:Zweizeilige Segge}
           Carex divisa [species] {VERN=eng:Divided Sedge,deu:Geteilte Segge,nld:Kustzegge,fra:Laîche divisée}
-          Carex divulsa [species] {VERN=eng:Grey Sedge,nld:Groene bermzegge,fra:Laîche écartée & Laîche de Leers,deu:Unterbrochenährige Segge}
-            Carex divulsa subsp. divulsa [subspecies] {VERN=nld:IJle bermzegge,fra:Laîche écartée,deu:Unterbrockenährige Segge}
-            Carex divulsa subsp. leersii [subspecies] {VERN=nld:Bleke bermzegge,fra:Laîche de Leers,deu:Leers' Segge}
           Carex echinata [species] {VERN=deu:Igelsegge,fra:Laîche étoilée,eng:Star Sedge,nld:Sterzegge}
           Carex elongata [species] {VERN=eng:Elongated Sedge,nld:Elzenzegge,deu:Langährige Segge,fra:Laîche allongée}
           Carex leporina L. [species] {VERN=deu:Hasenpfotensegge,nld:Hazenzegge,fra:Laîche des lièvres,eng:Oval Sedge}
             =Carex ovalis Gooden. [species] 
           Carex ligerica [species] {VERN=nld:Rivierduinzegge}
-          Carex muricata [species] {VERN=nld:Dichte bermzegge,deu:Gedrängtährige Segge,eng:Large-fruited Prickly-sedge,fra:Laîche de Paira}
-          Carex praecox Schreb. [species] {VERN=eng:Early Sedge,deu:Frühzeitige Segge,fra:Laîche précoce,nld:Vroege zegge}
           Carex remota [species] {VERN=nld:IJle zegge,fra:Laîche espacée,deu:Lockerährige Segge,eng:Remote Sedge}
-          Carex spicata [species] {VERN=deu:Dichtährige Segge,nld:Gewone bermzegge,fra:Laîche en épi,eng:Spiked Sedge}
           Carex vulpinoidea [species] {VERN=eng:American Fox-sedge,fra:Faux-laîche des renards,deu:Fuchsähnlige Segge,nld:Ribbelzegge}
-          Carex sect. Paniculatae [section_botany] {VERN=nld:Pluimzeggesectie}
+          Carex sect. Ammoglochin [ection_botany]
+            Carex arenaria [species] {VERN=fra:Laîche des sables,eng:Sand Sedge,deu:Sand-Segge,nld:Zandzegge}
+            Carex brizoides [species] {VERN=fra:Laîche brize,eng:Quaking-grass Sedge,nld:Trilgraszegge,deu:Wald-Seegras}
+            Carex disticha [species] {VERN=eng:Brown Sedge,fra:Laîche distique,nld:Tweerijige zegge,deu:Zweizeilige Segge}
+            Carex ligerica [species] {VERN=nld:Kustzegge}
+            Carex praecox Schreb. [species] {VERN=eng:Early Sedge,deu:Frühzeitige Segge,fra:Laîche précoce,nld:Vroege zegge}
+          Carex sect. Heleoglochin [section_botany] {VERN=nld:Pluimzeggesectie}
+            =Carex sect. Paniculatae [section_botany]
             Carex appropinquata [species] {VERN=eng:Fibrous Tussock-sedge,fra:Laîche paradoxale,nld:Paardenhaarzegge,deu:Wundersegge}
             Carex diandra [species] {VERN=deu:Drahtsegge,fra:Laîche arrondie,eng:Lesser Tussock-sedge,nld:Ronde zegge}
             Carex paniculata [species] {VERN=eng:Greater Tussock-sedge,fra:Laîche paniculée,nld:Pluimzegge,deu:Rispensegge}
+          Carex sect. Phaestoglochin [section_botany]
+            Carex divulsa [species] {VERN=eng:Grey Sedge,nld:Groene bermzegge,fra:Laîche écartée & Laîche de Leers,deu:Unterbrochenährige Segge}
+              Carex divulsa subsp. divulsa [subspecies] {VERN=nld:IJle bermzegge,fra:Laîche écartée,deu:Unterbrockenährige Segge}
+              Carex divulsa subsp. leersii [subspecies] {VERN=nld:Bleke bermzegge,fra:Laîche de Leers,deu:Leers' Segge}
+                =Carex leersii [species]
+            Carex pairae [species] {VERN=nld:Dichte bermzegge,deu:Gedrängtährige Segge,eng:Large-fruited Prickly-sedge,fra:Laîche de Paira}
+              =Carex muricata [species]
+            Carex spicata [species] {VERN=deu:Dichtährige Segge,nld:Gewone bermzegge,fra:Laîche en épi,eng:Spiked Sedge}
           Carex sect. Vulpinae [section_botany] {VERN=nld:Voszeggesectie}
             Carex otrubae [species] {VERN=deu:Falsche Fuchs-Segge,eng:Flase Fox-sedge,fra:Laîche cuivrée,nld:Valse voszegge}
               =Carex cuprina [species]
