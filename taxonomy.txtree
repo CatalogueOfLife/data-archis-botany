@@ -480,9 +480,9 @@ Plantae [kingdom]
         Helianthus × laetiflorus [species] {VERN=fra:Hélianthe vivace,nld:Stijve zonnebloem}
       Helichrysum [genus] {VERN=eng:Everlasting/Helichrysum,fra:Immortelle,nld:Strobloem,deu:Strohblume}
         Helichrysum arenarium [species] {VERN=fra:Immortelle des sables,deu:Sand-Strohblume,eng:Strawflower,nld:Strobloem}
-      Hieracium (Hieracium) [subgenus] {VERN=nld:Havikskruid subg. Hieracium}
-      Hieracium (Pilosella) [subgenus] {VERN=nld:Havikskruid subg. Pilosella}
       Hieracium [genus] {VERN=fra:Epervière,deu:Habichtskraut,nld:Havikskruid,eng:Hawkweed}
+        Hieracium (Hieracium) [subgenus] {VERN=nld:Havikskruid subg. Hieracium}
+        Hieracium (Pilosella) [subgenus] {VERN=nld:Havikskruid subg. Pilosella}
         Hieracium amplexicaule [species] {VERN=eng:Amplexicaul Hawkweed,fra:Epervière amplexicaule,nld:Stengelomvattend havikskruid,deu:Stengelumfassendes Habichtskraut}
         Hieracium aurantiacum [species] {VERN=fra:Epervière orangée,eng:Fox-and-cubs,deu:Orangerotes Habichtskraut,nld:Oranje havikskruid}
         Hieracium caespitosum [species] {VERN=fra:Epervière des prairies,eng:Turfy Hawkweed,nld:Weidehavikskruid,deu:Wiesenhabichtskraut}
