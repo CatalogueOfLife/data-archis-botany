@@ -3198,8 +3198,8 @@ Plantae [kingdom]
           =Rosa pimpinellifolia L. [species]
         Rosa villosa [species] {VERN=deu:Apfel-Rose,eng:Apple Rose,fra:Rosier pomme,nld:Viltroos}
         Rosa virginiana [species] {VERN=nld:Virginische roos}
-      Rubus (Rubus) [subgenus] {VERN=nld:Braam subg. Rubus}
       Rubus [genus] {VERN=eng:Blackberry,nld:Braam,deu:Brombeere,fra:Ronce}
+        Rubus (Rubus) [subgenus] {VERN=nld:Braam subg. Rubus}
         Rubus caesius [species] {VERN=nld:Dauwbraam,eng:Dewberry,deu:Hechtblaue Brombeere,fra:Ronce bleue}
         Rubus fruticosus Lour. [species] {VERN=nld:Braam,deu:Brombeere}
         Rubus idaeus [species] {VERN=fra:Framboisier,nld:Framboos,deu:Himbeere,eng:Raspberry}
