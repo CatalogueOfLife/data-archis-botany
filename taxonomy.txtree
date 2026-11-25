@@ -3201,7 +3201,7 @@ Plantae [kingdom]
       Rubus (Rubus) [subgenus] {VERN=nld:Braam subg. Rubus}
       Rubus [genus] {VERN=eng:Blackberry,nld:Braam,deu:Brombeere,fra:Ronce}
         Rubus caesius [species] {VERN=nld:Dauwbraam,eng:Dewberry,deu:Hechtblaue Brombeere,fra:Ronce bleue}
-        Rubus fruticosus [species] {VERN=nld:Braam,deu:Brombeere}
+        Rubus fruticosus Lour. [species] {VERN=nld:Braam,deu:Brombeere}
         Rubus idaeus [species] {VERN=fra:Framboisier,nld:Framboos,deu:Himbeere,eng:Raspberry}
         Rubus odoratus [species] {VERN=eng:Purple-flowering Raspberry,fra:Ronce odorante,nld:Roodbloeiende framboos,deu:Zimthimbeere}
         Rubus phoenicolasius [species] {VERN=fra:Framboisier du Japon,deu:Japanische Weinbeere,nld:Japanse wijnbes,eng:Wineberry}
